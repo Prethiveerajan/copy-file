@@ -1,0 +1,981 @@
+
+Page protected with pending changes
+Brexit
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Brexit (disambiguation).
+Part of a series of articles on
+Brexit
+EU-Austritt (47521165961).svg
+Withdrawal of the United Kingdom from the European Union
+
+Glossary of terms
+Background
+2016 referendum
+Notice of withdrawal
+Negotiations
+Withdrawal agreement
+Parliamentary votes
+Impact
+EU–UK relations
+Opposition
+Timeline
+Flag of Europe.svg EU portal · Flag of the United Kingdom.svg UK portal
+vte
+Part of a series of articles on
+UK membership
+of the European Union
+(1973–2020)
+United Kingdom EU.svg
+Accession
+1975 referendum
+Treaty amendments
+MEPs for UK constituencies
+Officials and bodies
+Issues and events
+Withdrawal
+Flag of Europe.svg EU portal · Flag of the United Kingdom.svg UK portal
+vte
+
+The United Kingdom in orange; the European Union (27 member states) in blue.
+Brexit (/ˈbrɛksɪt, ˈbrɛɡzɪt/;[1] a portmanteau of "British exit") was the withdrawal of the United Kingdom (UK) from the European Union (EU) at 23:00 GMT on 31 January 2020 (00:00 CET).[note 1] The UK is the only member state to have left the EU, after 47 years of having been a part of the union — the EU and its predecessor the European Communities (EC) — since 1 January 1973.[note 2] Following Brexit, EU law and the Court of Justice of the European Union no longer have primacy over British laws, except in select areas in relation to Northern Ireland.[2] The European Union (Withdrawal) Act 2018 retains relevant EU law as domestic law, which the UK can now amend or repeal. Under the terms of the Brexit withdrawal agreement, Northern Ireland continues to participate in the European Single Market in relation to goods, and to be a de facto member of the EU Customs Union.[3][4]
+
+The European Union and its institutions have developed gradually since their establishment and during the 47 years of British membership, and grew to be of significant economic and political importance to the UK. Throughout the period of British membership Eurosceptic groups had existed, opposing aspects of the Union and its predecessors. The Labour prime minister Harold Wilson's pro-EC government held a referendum on continued EC membership in 1975, in which voters chose to stay within the bloc with 67.2 per cent of the vote share, but no further referendums were held as European Integration continued and became "ever closer" in the subsequent Maastricht Treaty and the Treaty of Lisbon. As part of a campaign pledge to win votes from Eurosceptics,[5] the Conservative prime minister David Cameron promised to hold a referendum if his government was re-elected. His (pro-EU) government subsequently held a referendum on continued EU membership in 2016, in which voters chose to leave the EU with 51.9 per cent of the vote share. This led to his resignation, his replacement by Theresa May, and four years of negotiations with the EU on the terms of departure and on future relations.
+
+The negotiation process was both politically challenging and deeply divisive within the UK, with one deal rejected by the British parliament, risk of a departure from the EU without a withdrawal agreement or trade deal (a no-deal Brexit), general elections held in 2017 and 2019, and two new prime ministers in that time, both Conservative. Under Boris Johnson's majority government, the UK left the EU on 31 January 2020 but continued to participate in many EU institutions (including the single market and customs union) during a 1-year transition period in order to ensure frictionless trade until a long-term relationship was agreed. Trade deal negotiations continued to within days of the scheduled end of the transition period and the EU–UK Trade and Cooperation Agreement was signed on 30 December 2020.
+
+The effects of Brexit will in part be determined by the EU–UK Trade and Cooperation Agreement, which provisionally came into force from 1 January 2021 and was ratified on 1 May 2021.[6] The broad consensus among economists is that it is likely to harm the UK's economy and reduce its real per capita income in the long term, and that the referendum itself damaged the economy.[7][8][9][10][11] It is likely to produce a large decline in immigration from countries in the European Economic Area (EEA) to the UK,[12] and poses challenges for British higher education and academic research.[13]
+
+
+Contents
+1	Timeline
+2	Terminology and etymology
+3	Background: the United Kingdom and EC/EU membership
+3.1	Rising Euroscepticism
+3.2	Opinion polls 1977–2015
+4	Referendum of 2016
+4.1	Negotiations for membership reform
+4.2	Referendum result
+4.3	Voter demographics and trends
+4.4	Post-referendum investigations
+5	Withdrawal process
+5.1	Invocation of Article 50
+5.2	2017 UK general election
+5.3	UK–EU negotiations in 2017 and 2018
+5.4	May's agreement and failed ratification
+5.5	Article 50 extensions and Johnson's agreement
+5.6	2019 UK general election
+5.7	Ratification and departure
+5.8	Transition period and final trade agreement
+6	Political developments within Britain
+6.1	Domestic legislation after Article 50 notification
+6.1.1	European Union (Withdrawal) Act 2018
+6.1.2	Exit day
+6.1.3	Additional government bills
+6.1.3.1	Nuclear Safeguards Act 2018
+6.2	Public opinion
+6.3	Scotland
+6.4	No-deal planning
+6.5	Litigation
+7	Impact
+8	Cultural references
+9	See also
+10	Notes
+11	Citations
+12	Further reading
+13	External links
+13.1	Relating to court cases
+Timeline
+Main article: Timeline of Brexit
+Following a UK-wide referendum on 23 June 2016, in which 51.89 per cent voted in favour of leaving the EU and 48.11 per cent voted to remain a member, Prime Minister David Cameron resigned. On 29 March 2017, the new British government led by Theresa May formally notified the EU of the country's intention to withdraw, beginning the process of Brexit negotiations. The withdrawal, originally scheduled for 29 March 2019, was delayed by deadlock in the British parliament after the June 2017 general election, which resulted in a hung parliament in which the Conservatives lost their majority but remained the largest party. This deadlock led to three extensions of the UK's Article 50 process.
+
+The deadlock was resolved after a subsequent general election was held in December 2019. In that election, Conservatives who campaigned in support of a "revised" withdrawal agreement led by Boris Johnson won an overall majority of 80 seats. After the December 2019 election, the British parliament finally ratified the withdrawal agreement with the European Union (Withdrawal Agreement) Act 2020. The UK left the EU at the end of 31 January 2020 CET (11 p.m. GMT). This began a transition period that ended on 31 December 2020 CET (11 p.m. GMT), during which the UK and EU negotiated their future relationship.[14] During the transition, the UK remained subject to EU law and remained part of the European Union Customs Union and the European Single Market. However, it was no longer part of the EU's political bodies or institutions.[15][16]
+
+Withdrawal had been advocated by hard Eurosceptics and opposed by pro-Europeanists and soft Eurosceptics, with both sides of the argument spanning the political spectrum. In 1973, the UK joined the European Communities (EC) – principally the European Economic Community (EEC), and its continued membership was endorsed in the 1975 membership referendum. In the 1970s and 1980s, withdrawal from the EC was advocated mainly by the political left, e.g. in the Labour Party's 1983 election manifesto. The 1992 Maastricht Treaty, which founded the EU, was ratified by the British parliament in 1993 but was not put to a referendum. The Eurosceptic wing of the Conservative Party led a rebellion over ratification of the treaty and, with the UK Independence Party (UKIP) and the cross-party People's Pledge campaign, then led a collective campaign, particularly after the Treaty of Lisbon was also ratified by the European Union (Amendment) Act 2008 without being put to a referendum following a previous promise to hold a referendum on ratifying the abandoned European Constitution, which was never held. After promising to hold a second membership referendum if his government was elected, Conservative prime minister David Cameron held this referendum in 2016. Cameron, who had campaigned to remain, resigned after the result and was succeeded by Theresa May.
+
+On 29 March 2017, the British government formally began the withdrawal process by invoking Article 50 of the Treaty on European Union with permission from Parliament. May called a snap general election in June 2017, which resulted in a Conservative minority government supported by the Democratic Unionist Party (DUP). UK–EU withdrawal negotiations began later that month. The UK negotiated to leave the EU customs union and single market. This resulted in the November 2018 withdrawal agreement, but the British parliament voted against ratifying it three times. The Labour Party wanted any agreement to maintain a customs union, while many Conservatives opposed the agreement's financial settlement, as well as the "Irish backstop" designed to prevent border controls between Northern Ireland and the Republic of Ireland. The Liberal Democrats, Scottish National Party (SNP), and others sought to reverse Brexit through a proposed second referendum.
+
+On 14 March 2019, the British parliament voted for May to ask the EU to delay Brexit until June, and then later October.[17] Having failed to get her agreement approved, May resigned as Prime Minister in July and was succeeded by Boris Johnson. He sought to replace parts of the agreement and vowed to leave the EU by the new deadline. On 17 October 2019, the British Government and the EU agreed on a revised withdrawal agreement, with new arrangements for Northern Ireland.[18][19] Parliament approved the agreement for further scrutiny, but rejected passing it into law before the 31 October deadline, and forced the government (through the "Benn Act") to ask for a third Brexit delay. An early general election was then held on 12 December. The Conservatives won a large majority in that election, with Johnson declaring that the UK would leave the EU in early 2020.[20] The withdrawal agreement was ratified by the UK on 23 January and by the EU on 30 January; it came into force on 31 January 2020.[21][22][23]
+
+Terminology and etymology
+Main article: Glossary of Brexit terms
+Following the referendum of 23 June 2016, many new pieces of Brexit-related jargon entered popular use.[24][25]
+
+Background: the United Kingdom and EC/EU membership
+Main articles: Accession of the United Kingdom to the European Communities and United Kingdom membership of the European Union
+
+The Inner Six (blue) and Outer Seven (green) of European integration from 1961 until 1973.
+  EC Members (Inner Six)
+  EFTA Members (Outer Seven)
+The "Inner Six" European countries signed the Treaty of Paris in 1951, establishing the European Coal and Steel Community (ECSC). The 1955 Messina Conference deemed that the ECSC was a success, and resolved to extend the concept further, thereby leading to the 1957 Treaties of Rome establishing the European Economic Community (EEC) and the European Atomic Energy Community (Euratom). In 1967, these became known as the European Communities (EC). The UK attempted to join in 1963 and 1967, but these applications were vetoed by the President of France, Charles de Gaulle.[26]
+
+
+When the UK first joined the European Communities (along with Denmark and Ireland) on 1 January 1973 it was one of just nine member states that made up the bloc at the time.
+  EC Members
+Some time after de Gaulle resigned in 1969, the UK successfully applied for EC membership, and the Conservative prime minister Edward Heath signed the Treaty of Accession in 1972.[27] Parliament passed the European Communities Act later that year[28] and the UK joined Denmark and Ireland in becoming a member on 1 January 1973, without referendum.[29]
+
+During the 1970s and 1980s, the Labour Party was the more Eurosceptic of the two major parties, and the Conservatives the more Europhile. The 1983 Labour Party manifesto would even pledge to leave the then European Economic Community. Earlier on, Labour had won the February 1974 general election without a majority and then contested the subsequent October 1974 general election with a commitment to renegotiate Britain's terms of membership of the EC, believing them to be unfavourable, and then hold a referendum on whether to remain in the EC on the new terms.[30] Labour again won the election (this time with a small majority), and in 1975 the UK held its first ever national referendum, asking whether the UK should remain in the EC. Despite significant division within the ruling Labour Party,[31] all major political parties and the mainstream press supported continuing membership of the EC. On 5 June 1975, 67.2% of the electorate and all but two[32] British counties and regions voted to stay in;[33] support for the UK to leave the EC in 1975 appears unrelated to the support for Leave in the 2016 referendum.[34]
+
+
+Comparison of results of 1975 and 2016 referendums
+The Labour Party campaigned in the 1983 general election on a commitment to withdraw from the EC without a referendum.[35] After their heavy defeat in that election, Labour changed its policy.[35] In 1985, the second Margaret Thatcher government ratified the Single European Act—the first major revision to the Treaty of Rome—without a referendum.[citation needed]
+
+In October 1990, under pressure from senior ministers and despite Thatcher's deep reservations, the UK joined the European Exchange Rate Mechanism (ERM), with the pound sterling pegged to the deutschmark. Thatcher resigned as Prime Minister the following month, amid Conservative Party divisions arising partly from her increasingly Eurosceptic views. The UK and Italy were forced to withdraw from the ERM in September 1992, after the pound sterling and the lira came under pressure from currency speculation ("Black Wednesday").[36] Italy would soon rejoin but on a different band whilst the UK did not seek re entry and remained outside the ERM.
+
+On 1 November 1993, after the UK and the other eleven member states had ratified, the EC became the EU under the Maastricht Treaty[37] compromise — in a post Cold War and German reunification — between member states seeking deeper integration and those wishing to retain greater national control in the economic and political union.[38] Denmark, France, and Ireland held referendums to ratify the Maastricht Treaty. In accordance with Constitution of the United Kingdom, specifically that of parliamentary sovereignty, ratification in the UK was not subject to approval by referendum. Despite this, British constitutional historian Vernon Bogdanor wrote that there was "a clear constitutional rationale for requiring a referendum" because although MPs are entrusted with legislative power by the electorate, they are not given authority to transfer that power (the UK's previous three referendums all concerned this). Further, as the ratification of the treaty was in the manifestos of the three major political parties, voters opposed to ratification had no way to express it. For Bogdanor, while the ratification by the House of Commons might be legal, it would not be legitimate—which requires popular consent. The way in which the treaty was ratified, he judged, was "likely to have fundamental consequences both for British politics and for Britain's relationship with the [EC]."[39][40] This perceived democratic deficit, later, directly led to the formation of the Referendum Party and the UK Independence Party.[citation needed]
+
+Rising Euroscepticism
+Main article: Euroscepticism in the United Kingdom
+Margaret Thatcher
+Nigel Farage
+David Cameron
+Conservative prime ministers Margaret Thatcher (left) and David Cameron (right) used Eurosceptic rhetoric while being in favour of the UK's membership and the development of the European Single Market. Euroscepticism – and in particular the impact of the UK Independence Party (former leader Nigel Farage pictured centre) on the Conservatives' election results – contributed to Cameron's 2015–16 attempt to renegotiate the UK's EU membership, and ultimately the holding of the 2016 referendum.
+Thatcher, who had previously supported the common market and the Single European Act, in the Bruges speech of 1988 warned against "a European super-state exercising a new dominance from Brussels". She influenced Daniel Hannan, who in 1990 founded the Oxford Campaign for Independent Britain; "With hindsight, some see this as the start of the campaign for Brexit", the Financial Times later wrote.[41] In 1994, Sir James Goldsmith formed the Referendum Party to contest the 1997 general election on a platform of providing a referendum on the nature of the UK's relationship with the rest of the EU.[42][43] The party fielded candidates in 547 constituencies at that election, and won 810,860 votes—2.6% of the total votes cast[44]—but failed to win a parliamentary seat because the vote was spread across the country. The Referendum Party disbanded after Goldsmith's death in 1997.[citation needed]
+
+The UK Independence Party (UKIP), a Eurosceptic political party, was formed in 1993. It achieved third place in the UK during the 2004 European elections, second place in the 2009 European elections and first place in the 2014 European elections, with 27.5% of the total vote. This was the first time since the 1910 general election that any party other than Labour or the Conservatives had taken the largest share of the vote in a nationwide election.[45] UKIP's electoral success in the 2014 European election is documented as the strongest correlate of the support for the Leave campaign in the 2016 referendum.[46] This electoral success that has such a great impact on the leave campaign could also be seen to be one of the strongest reasons why the referendum was called in the first place as David Cameron needed a way to quell the rising political force of UKIP.[47]
+
+UKIP won two by-elections (triggered by defecting Conservative MPs) in 2014; in the 2015 general election, the party took 12.6% of the total vote and held one of the two seats won in 2014.[48]
+
+Opinion polls 1977–2015
+Main article: Opinion polling for the United Kingdom European Union membership referendum
+Both pro- and anti-EU views had majority support at different times from 1977 to 2015.[49] In the EC membership referendum of 1975, two-thirds of British voters favoured continued EC membership. Over the decades of UK-EU membership, Euroscepticism existed on both the left and right of British politics.[50][51][52]
+
+According to a statistical analysis published in April 2016 by Professor John Curtice of Strathclyde University, surveys showed an increase in Euroscepticism (defined as a wish to sever or reduce the powers of the EU) from 38% in 1993 to 65% in 2015. The BSA survey for the period of July–November 2015 showed that 60% backed the option to continue as a member and 30% backed withdrawal.[53]
+
+Referendum of 2016
+Main article: 2016 United Kingdom European Union membership referendum
+Negotiations for membership reform
+Main article: 2015–2016 United Kingdom renegotiation of European Union membership
+In 2012, Prime Minister David Cameron initially rejected calls for a referendum on the UK's EU membership,[54] but then suggested the possibility of a future referendum to endorse his proposed renegotiation of Britain's relationship with the rest of the EU.[55] According to the BBC, "The prime minister acknowledged the need to ensure the UK's [renegotiated] position within the [EU] had 'the full-hearted support of the British people' but they needed to show 'tactical and strategic patience'."[56] On 23 January 2013, under pressure from many of his MPs and from the rise of UKIP, Cameron promised in his Bloomberg speech that a Conservative government would hold an in-or-out referendum on EU membership before the end of 2017, on a renegotiated package, if elected in the 7 May 2015 general election.[57] This was included in the Conservative Party manifesto for the election.[58][59]
+
+The Conservative Party won the election with a majority. Soon afterwards, the European Union Referendum Act 2015 was introduced into Parliament to enable the referendum. Cameron favoured remaining in a reformed EU, and sought to renegotiate on four key points: protection of the single market for non-eurozone countries, reduction of "red tape", exempting Britain from "ever-closer union", and restricting immigration from the rest of the EU.[60]
+
+In December 2015, opinion polls showed a clear majority in favour of remaining in the EU; they also showed support would drop if Cameron did not negotiate adequate safeguards[definition needed] for non-eurozone member states, and restrictions on benefits for non-UK EU citizens.[61]
+
+The outcome of the renegotiations was revealed in February 2016. Some limits to in-work benefits for new EU immigrants were agreed, but before they could be applied, a member state such as the UK would have to get permission from the European Commission and then from the European Council, which is composed of the heads of government of every member state.[62]
+
+In a speech to the House of Commons on 22 February 2016, Cameron announced a referendum date of 23 June 2016, and commented on the renegotiation settlement.[63] He spoke of an intention to trigger the Article 50 process immediately following a Leave vote and of the "two-year time period to negotiate the arrangements for exit."[64]
+
+After the original wording for the referendum question was challenged,[65] the government agreed to change the official referendum question to "Should the United Kingdom remain a member of the European Union or leave the European Union?"
+
+Referendum result
+Main article: Results of the 2016 United Kingdom European Union membership referendum
+In the referendum 51.89% voted in favour of leaving the EU (Leave), and 48.11% voted in favour of remaining a member of the EU (Remain).[66][67] After this result, Cameron resigned on 13 July 2016, with Theresa May becoming Prime Minister after a leadership contest. A petition calling for a second referendum attracted more than four million signatures,[68][69] but was rejected by the government on 9 July.[70]
+
+2016 United Kingdom European Union membership referendum
+Choice	Votes	%
+Leave the European Union	17,410,742	51.89
+Remain a member of the European Union	16,141,241	48.11
+Valid votes	33,551,983	99.92
+Invalid or blank votes	25,359	0.08
+Total votes	33,577,342	100.00
+Registered voters and turnout	46,500,001	72.21
+Source: Electoral Commission[71]
+National referendum results (without spoiled ballots)
+Leave:
+17,410,742 (51.9%)	Remain:
+16,141,241 (48.1%)
+▲
+
+
+Results by UK voting region (left) and by council district/unitary authority (GB) & UK Parliament constituency (NI) (right)
+  Leave
+  Remain
+Region	Electorate	Voter turnout,
+of eligible	Votes	Proportion of votes	Invalid votes
+Remain	Leave	Remain	Leave
+ 	East Midlands	3,384,299	74.2%	1,033,036	1,475,479	41.18%	58.82%	1,981
+ 	East of England	4,398,796	75.7%	1,448,616	1,880,367	43.52%	56.48%	2,329
+ 	Greater London	5,424,768	69.7%	2,263,519	1,513,232	59.93%	40.07%	4,453
+ 	North East England	1,934,341	69.3%	562,595	778,103	41.96%	58.04%	689
+ 	North West England	5,241,568	70.0%	1,699,020	1,966,925	46.35%	53.65%	2,682
+ 	Northern Ireland	1,260,955	62.7%	440,707	349,442	55.78%	44.22%	374
+ 	Scotland	3,987,112	67.2%	1,661,191	1,018,322	62.00%	38.00%	1,666
+ 	South East England	6,465,404	76.8%	2,391,718	2,567,965	48.22%	51.78%	3,427
+ 	South West England
+(including Gibraltar)	4,138,134	76.7%	1,503,019	1,669,711	47.37%	52.63%	2,179
+ 	Wales	2,270,272	71.7%	772,347	854,572	47.47%	52.53%	1,135
+ 	West Midlands	4,116,572	72.0%	1,207,175	1,755,687	40.74%	59.26%	2,507
+ 	Yorkshire and the Humber	3,877,780	70.7%	1,158,298	1,580,937	42.29%	57.71%	1,937
+Voter demographics and trends
+Further information: Causes of the vote in favour of Brexit
+A 2017 study published in Economic Policy showed that the Leave vote tended to be greater in areas which had lower incomes and high unemployment, a strong tradition of manufacturing employment, and in which the population had fewer qualifications. It also tended to be greater where there was a large flow of Eastern European migrants (mainly low-skilled workers) into areas with a large share of native low-skilled workers.[72] Those in lower social grades (especially the working class) were more likely to vote Leave, while those in higher social grades (especially the upper middle class) more likely to vote Remain.[73][74][75] Studies found that the Leave vote tended to be higher in areas affected by economic decline,[76] high rates of suicides and drug-related deaths,[77] and austerity reforms introduced in 2010.[78]
+
+Studies suggest that older people were more likely to vote Leave, and younger people more likely to vote Remain.[79] According to Thomas Sampson, an economist at the London School of Economics, "Older and less-educated voters were more likely to vote 'leave' [...] A majority of white voters wanted to leave, but only 33% of Asian voters and 27% of black voters chose leave. [...] Leaving the European Union received support from across the political spectrum [...] Voting to leave the European Union was strongly associated with holding socially conservative political beliefs, opposing cosmopolitanism, and thinking life in Britain is getting worse."[80]
+
+Polling conducted by YouGov supported these conclusions, showing that factors such as age, political party affiliation, education, and household income were the primary factors indicating how people would vote. For example Conservative Party voters were 61% likely to vote leave, compared to Labour Party voters, who were 35% likely to vote leave. Age was one of the biggest factors affecting whether someone would vote leave, with 64% of people over the age of 65 likely to vote leave, whereas 18-24 year olds were only 29% likely to vote leave. Education was another factor indicating voting likelihood: people with a GCSE or lower level of education were 70% likely to vote leave, whereas university graduates were only 32% likely to vote leave. Household income was another important factor, with households earning less then £20,000 62% likely to vote leave, compared to households earning £60,000 or more, which were only 35% likely to vote leave.[81]
+
+There were major variations in geographic support for each side. Scotland and Northern Ireland both returned majorities for remain, although these had a relatively small impact on the overall result as England has a much larger population. There were also significant regional differences within England, with most of London returning a majority remain vote, alongside urban centres in northern England such as Manchester and Liverpool, which returned remain majorities of 60% and 58% respectively. Opposite trends appeared in industrial and post-industrial areas of northern England, with areas such as North Lincolnshire and South Tyneside both heavily supporting leave.[82]
+
+Opinion polls found that Leave voters believed leaving the EU was "more likely to bring about a better immigration system, improved border controls, a fairer welfare system, better quality of life, and the ability to control our own laws", while Remain voters believed EU membership "would be better for the economy, international investment, and the UK's influence in the world." Polls found that the main reasons people voted Leave were "the principle that decisions about the UK should be taken in the UK", and that leaving "offered the best chance for the UK to regain control over immigration and its own borders." The main reason people voted Remain was that "the risks of voting to leave the EU looked too great when it came to things like the economy, jobs and prices."[83]
+
+Post-referendum investigations
+See also: European Union membership referendum § Investigations into campaigns, and Allegations of unlawful campaigning in the 2016 EU referendum
+Following the referendum, a series of irregularities related to campaign spending were investigated by the Electoral Commission, which subsequently issued a large number of fines. In February 2017, the main campaign group for the "Leave" vote, Leave.EU, was fined £50,000 for sending marketing messages without permission.[84] In December 2017, the Electoral Commission fined two pro-EU groups, the Liberal Democrats (£18,000) and Open Britain (£1,250), for breaches of campaign finance rules during the referendum campaign.[85] In May 2018, the Electoral Commission fined Leave.EU £70,000 for unlawfully overspending and inaccurately reporting loans from Arron Banks totalling £6 million.[86] Smaller fines were levelled against the pro-EU campaign group Best for Our Future and two trade union donors for inaccurate reporting.[87] In July 2018 Vote Leave was fined £61,000 for overspending, not declaring finances shared with BeLeave, and failing to comply with investigators.[88]
+
+In November 2017, the Electoral Commission launched a probe into claims that Russia had attempted to sway public opinion over the referendum using social media platforms such as Twitter and Facebook.[89]
+
+In February 2019, the parliamentary Digital, Culture, Media and Sport Committee called for an inquiry into "foreign influence, disinformation, funding, voter manipulation, and the sharing of data" in the Brexit vote.[90]
+
+In July 2020, Intelligence and Security Committee of Parliament published a report which accused the UK government of actively avoiding investigating whether Russia interfered with public opinion. The report did not pass judgement over whether Russian information operations had an impact on the result.[91]
+
+Withdrawal process
+Further information: Withdrawal from the European Union
+	Wikisource has original text related to this article:
+Article 50 of the Treaty on European Union
+Withdrawal from the European Union is governed by Article 50 of the Treaty on European Union. It was originally drafted by Lord Kerr of Kinlochard,[92] and introduced by the Treaty of Lisbon at the insistence of the United Kingdom.[citation needed] The article states that any member state can withdraw "in accordance with its own constitutional requirements" by notifying the European Council of its intention to do so.[93] The notification triggers a two-year negotiation period, in which the EU must "negotiate and conclude an agreement with [the leaving] State, setting out the arrangements for its withdrawal, taking account of the framework for its future relationship with the [European] Union".[94] If no agreement is reached within the two years, the membership ends without an agreement, unless an extension is unanimously agreed among all EU states, including the withdrawing state.[94] On the EU side, the agreement needs to be ratified by qualified majority in the European Council, and by the European Parliament.[94]
+
+Invocation of Article 50
+Main article: United Kingdom invocation of Article 50 of the Treaty on European Union
+
+Letter from Theresa May invoking Article 50
+The 2015 Referendum Act did not expressly require Article 50 to be invoked,[94] but prior to the referendum, the British government said it would respect the result.[95] When Cameron resigned following the referendum, he said that it would be for the incoming prime minister to invoke Article 50.[96][97] The new prime minister, Theresa May, said she would wait until 2017 to invoke the article, in order to prepare for the negotiations.[98] In October 2016, she said Britain would trigger Article 50 in March 2017,[99] and in December she gained the support of MP's for her timetable.[100]
+
+In January 2017, the Supreme Court of the United Kingdom ruled in the Miller case that government could only invoke Article 50 if authorised by an act of parliament to do so.[101] The government subsequently introduced a bill for that purpose, and it was passed into law on 16 March as the European Union (Notification of Withdrawal) Act 2017.[102] On 29 March, Theresa May triggered Article 50 when Tim Barrow, the British ambassador to the EU, delivered the invocation letter to European Council President Donald Tusk. This made 29 March 2019 the expected date that UK would leave EU.[103][104]
+
+2017 UK general election
+See also: 2017 United Kingdom general election
+
+A map presenting the results of the 2017 United Kingdom general election, by party of the MP elected from each constituency.
+In April 2017, Theresa May called a snap general election, held on 8 June, in an attempt to "strengthen [her] hand" in the negotiations;[105] The Conservative Party, Labour and UKIP made manifesto pledges to implement the referendum, the Labour manifesto differing in its approach to Brexit negotiations, such as unilaterally offering permanent residence to EU immigrants.[106][107][108][109] The Liberal Democrat Party and the Green Party manifestos proposed a policy of remaining in the EU via a second referendum.[110][111][112] The Scottish National Party (SNP) manifesto proposed a policy of waiting for the outcome of the Brexit negotiations and then holding a referendum on Scottish independence.[113][114]
+
+The result produced an unexpected hung parliament, the governing Conservatives gained votes (but nevertheless lost seats and their majority in the House of Commons) and remained the largest party. Labour gained significantly on votes and seats, retaining its position as the second-largest party. The Liberal Democrats gained six seats despite a slight decrease in vote share compared with 2015. The Green Party kept its single MP while also losing national vote share. Losing votes and seats were the SNP, which lost 21 MPs, and UKIP, which suffered a −10.8% swing and lost its only MP. The Democratic Unionist Party (DUP) and Sinn Féin also made gains in votes and seats.[115]
+
+On 26 June 2017, Conservatives and the DUP reached a confidence and supply agreement whereby the DUP would back the Conservatives in key votes in the House of Commons over the course of the parliament. The agreement included additional funding of £1 billion for Northern Ireland, highlighted mutual support for Brexit and national security, expressed commitment to the Good Friday Agreement, and indicated that policies such as the state pension triple lock and Winter Fuel Payments would be maintained.[116][117]
+
+UK–EU negotiations in 2017 and 2018
+Main article: Brexit negotiations
+Prior to the negotiations, May said that the British government would not seek permanent single market membership, would end ECJ jurisdiction, seek a new trade agreement, end free movement of people and maintain the Common Travel Area with Ireland.[118] The EU had adopted its negotiating directives in May,[119] and appointed Michel Barnier as Chief Negotiator.[120] The EU wished to perform the negotiations in two phases: first the UK would agree to a financial commitment and to lifelong benefits for EU citizens in Britain, and then negotiations on a future relationship could begin.[121] In the first phase, the member states would demand that the UK pay a "divorce bill", initially estimated as amounting to £52 billion.[122] EU negotiators said that an agreement must be reached between UK and the EU by October 2018.[123]
+
+Negotiations commenced on 19 June 2017.[124] Negotiating groups were established for three topics: the rights of EU citizens living in Britain and vice versa; Britain's outstanding financial obligations to the EU; and the border between Northern Ireland and the Republic of Ireland.[125][126][127] In December 2017, a partial agreement was reached. It ensured that there would be no hard border in Ireland, protected the rights of UK citizens in EU and EU citizens in Britain, and estimated the financial settlement to be £35–39 billion.[128] May stressed that "Nothing is agreed until everything is agreed".[129] Following this partial agreement, EU leaders agreed to move on to the second phase in the negotiations: discussion of the future relationship, a transition period and a possible trade deal.[130]
+
+In March 2018, a 21-month transition period and the terms for it were provisionally agreed.[131] In June 2018, Irish Taoiseach Leo Varadkar said that there had been little progress on the Irish border question—on which the EU proposed a backstop, to come into effect if no overall trade deal had been reached by the end of the transition period—and that it was unlikely that there would be a solution before October, when the whole deal was to be agreed.[132] In July 2018, the British government published the Chequers plan, its aims for the future relationship to be determined in the negotiations. The plan sought to keep British access to the single market for goods, but not necessarily for services, while allowing for an independent trade policy.[133] The plan caused cabinet resignations, including Brexit Secretary David Davis[134] and Foreign Secretary Boris Johnson.[135]
+
+May's agreement and failed ratification
+Main articles: Brexit withdrawal agreement and Parliamentary votes on Brexit
+	Wikisource has original text related to this article:
+2018 Draft withdrawal agreement
+On 13 November 2018, UK and EU negotiators agreed the text of a draft withdrawal agreement,[136] and May secured her cabinet's backing of the deal the following day,[137] though Brexit Secretary Dominic Raab resigned over "fatal flaws" in the agreement.[138] It was expected that ratification in the British parliament would be difficult.[139][140][141] On 25 November, all 27 leaders of the remaining EU countries endorsed the agreement.[139][140]
+
+On 10 December 2018, the Prime Minister postponed the vote in the House of Commons on her Brexit deal. This came minutes after the Prime Minister's Office confirmed the vote would be going ahead.[142] Faced with the prospect of a defeat in the House of Commons, this option gave May more time to negotiate with Conservative backbenchers and the EU, even though they had ruled out further discussions.[143] The decision was met with calls from many Welsh Labour MPs for a motion of no confidence in the Government.[144]
+
+Also on 10 December 2018, the European Court of Justice(ECJ) ruled that the UK could unilaterally revoke its notification of withdrawal, as long as it was still a member and had not agreed a withdrawal agreement. The decision to do so should be "unequivocal and unconditional" and "follow a democratic process".[145] If the British revoked their notification, they would remain a member of the EU under their current membership terms. The case was launched by Scottish politicians, and referred to the ECJ by the Scottish Court of Session.[146]
+
+The European Research Group (ERG), a research support group of Eurosceptic Conservative MPs, opposed the Prime Minister's proposed Withdrawal Agreement treaty. Its members objected strongly to the Withdrawal Agreement's inclusion of the Irish backstop.[147][148] ERG members also objected to the proposed £39 billion financial settlement with the EU and stated that the agreement would result in the UK's agreement to continuing to follow EU regulations in major policy areas; and to the continuing jurisdiction of the ECJ over interpretation of the agreement and of European law still applicable to the UK.[149][150]
+
+On 15 January 2019, the House of Commons voted 432 to 202 against the deal, which was the largest majority ever against a United Kingdom government.[151][152] Soon after, a motion of no confidence in Her Majesty's Government was tabled by the opposition,[153] which was rejected by 325 votes to 306.[154]
+
+On 24 February, Prime Minister May proposed that the next vote on the withdrawal agreement would be on 12 March 2019, 17 days away from the Brexit date.[155] On 12 March, the proposal was defeated by 391 votes to 242—a loss by 149 votes, down from 230 from when the deal had been proposed in January.[156]
+
+On 18 March 2019, the Speaker informed the House of Commons that a third meaningful vote could be held only on a motion that was significantly different from the previous one, citing parliamentary precedents going back to 1604.[157]
+
+The Withdrawal Agreement was brought back to the House without the attached understandings on 29 March.[158] The Government's motion of support for the Withdrawal Agreement was defeated by 344 votes to 286—a loss by 58 votes, down from 149 when the deal had been proposed on 12 March.[159]
+
+Article 50 extensions and Johnson's agreement
+On 20 March 2019, the Prime Minister wrote to European Council President Tusk requesting that Brexit be postponed until 30 June 2019.[160] On 21 March 2019, May presented her case to a European Council summit meeting in Brussels. After May left the meeting, a discussion amongst the remaining EU leaders resulted in the rejection of 30 June date and offered instead a choice of two new alternative Brexit dates. On 22 March 2019, the extension options were agreed between the British government and the European Council.[161] The first alternative offered was that if MPs rejected May's deal in the next week, Brexit would be due to occur by 12 April 2019, with, or without, a deal—or alternatively another extension be asked for and a commitment to participate in the 2019 European Parliament elections given. The second alternative offered was that if MPs approved May's deal, Brexit would be due to occur on 22 May 2019. The later date was the day before the start of European Parliament elections.[162] After the government deemed unwarranted the concerns over the legality of the proposed change (because it contained two possible exit dates) the previous day,[163][164] on 27 March 2019 both the Lords (without a vote)[165] and the Commons (by 441 to 105) approved the statutory instrument changing the exit date to 22 May 2019 if a withdrawal deal is approved, or 12 April 2019 if it is not.[166] The amendment was then signed into law at 12:40 p.m. the next day.[161]
+
+Following the failure of the British Parliament to approve the Withdrawal Agreement by 29 March, the UK was required to leave the EU on 12 April 2019. On 10 April 2019, late-night talks in Brussels resulted in a further extension, to 31 October 2019; Theresa May had again requested an extension only until 30 June. Under the terms of this new extension, if the Withdrawal Agreement were to be passed before October, Brexit would occur on the first day of the subsequent month. The UK would then be obligated to hold European Parliament elections in May, or leave the EU on 1 June without a deal.[167][168]
+
+In granting the Article 50 extensions, the EU adopted a stance of refusing to "reopen" (that is, renegotiate) the Withdrawal Agreement.[169] After Boris Johnson became prime minister on 24 July 2019 and met with EU leaders, the EU changed its stance. On 17 October 2019, following "tunnel talks" between UK and EU,[170] a revised withdrawal agreement was agreed on negotiators level, and endorsed by the British government and the EU Commission.[171] The revised deal contained a new Northern Ireland Protocol, as well as technical modifications to related articles.[18] In addition, the Political Declaration was also revised.[172] The revised deal and the political declaration was endorsed by the European Council later that day.[173] To come into effect, it needed to be ratified by the European Parliament and the Parliament of the United Kingdom.[174]
+
+The British Parliament passed the European Union (Withdrawal) (No. 2) Act 2019, which received Royal Assent on 9 September 2019, obliging the Prime Minister to seek a third extension if no agreement has been reached at the next European Council meeting in October 2019.[175] In order for such an extension to be granted if it is requested by the Prime Minister, it would be necessary for there to be unanimous agreement by all other heads of EU governments.[176] On 28 October 2019, the third extension was agreed to by the EU, with a new withdrawal deadline of 31 January 2020.[177] 'Exit day' in British law was then amended to this new date by statutory instrument on 30 October 2019.[178]
+
+2019 UK general election
+See also: 2019 United Kingdom general election
+
+A map presenting the results of the 2019 United Kingdom general election, by party of the MP elected from each constituency.
+After Johnson was unable to induce Parliament to approve a revised version of the withdrawal agreement by the end of October, he chose to call for a snap election. Due to the fact three motions for an early general election under the Fixed-term Parliaments Act 2011 failed to achieve the necessary two-thirds super majority for it to pass so instead in a highly unusual and rare direct showing of parliamentary sovereignty in order to circumvent the existing law the Government introduced a “election bill” which only needed a simple majority of MPs to vote in favour into the House of Commons which was passed by 438–20, setting the election date for Thursday 12 December.[179] Opinion polls up to polling day showed a firm lead for the Conservatives against Labour throughout the campaign.[180]
+
+In the run-up to the general election on 12 December 2019 the Conservative Party pledged to leave the EU with the withdrawal agreement negotiated in October 2019. Labour promised to renegotiate aforementioned deal and hold a referendum, letting voters choose between the renegotiated deal and remain. The Liberal Democrats vowed to revoke Article 50, while the SNP intended to hold a second referendum, however, revoking Article 50 if the alternative was a no-deal exit. The DUP supported Brexit, but would seek to change parts related to Northern Ireland it was dissatisfied with. Plaid Cymru and the Green Party backed a second referendum, believing the UK should stay in the EU. The Brexit Party was the only major party running for election which wanted the UK to leave the EU without a deal.[181]
+
+The election produced a decisive result for Boris Johnson with the Conservatives winning 365 seats (gaining 47 seats) and a overall majority of 80 seats with Labour suffering their worst election defeat since 1935 after losing 60 seats to leave them with 202 seats and only a single seat in Scotland. The Liberal Democrats won just 11 seats with their leader Jo Swinson losing her own seat. The Scottish National Party won 48 seats after gaining 14 seats in Scotland.
+
+The result broke the deadlock in the UK Parliament and ended the possibility of a referendum being held on the withdrawal agreement and ensured that the United Kingdom would leave the European Union on 31 January 2020.
+
+Ratification and departure
+
+Foreign and Commonwealth Office building illuminated in the colours of the Union Jack on 31 January 2020
+Subsequently, the government introduced a bill to ratify the withdrawal agreement. It passed its second reading in the House of Commons in a 358–234 vote on 20 December 2019,[182] and became law on 23 January 2020 as the European Union (Withdrawal Agreement) Act 2020.[183]
+
+The withdrawal agreement received the backing of the constitutional committee in the European Parliament on 23 January 2020, setting expectation that the entire parliament would approve it in a later vote.[184][185][186] On the following day, Ursula von der Leyen and Charles Michel signed the withdrawal agreement in Brussels, and it was sent to London where Boris Johnson signed it.[21] The European Parliament gave its consent to ratification on 29 January by 621 votes to 49.[187][22] Immediately after voting approval, members of the European Parliament joined hands and sang Auld Lang Syne.[188] The Council of the European Union concluded EU ratification the following day.[189]
+
+On 31 January 2020 at 11 p.m. GMT, the United Kingdom's membership of the European Union ended 47 years after it joined.[23]
+
+Transition period and final trade agreement
+File:Trim.124028DB-3986-4A22-BE88-3024C92E0C3A.webm
+Conservative party advertisement from early 2020 featuring Boris Johnson answering frequently searched for online Brexit-related questions
+Following the British exit on 31 January 2020 the UK entered a Transition Period for the rest of 2020. Trade, travel and freedom of movement remain largely unchanged during this period.[190]
+
+The Withdrawal Agreement still applies after this date.[191] This agreement provides free access of goods between Northern Ireland and the Republic of Ireland, provided checks are made to goods entering Northern Ireland from the rest of the UK. The British Government attempted to back out of this commitment[192] by passing the Internal Market Bill: domestic legislation in the British Parliament. In September, Northern Ireland secretary Brandon Lewis said:
+
+I would say to my hon. Friend that yes, this does break international law in a very specific and limited way.[193]
+
+leading to the resignation of Sir Jonathan Jones, permanent secretary to the Government Legal Department[194] and Lord Keen, the law officer for Scotland.[195] The European Commission started legal action.[191]
+
+During the transition period, David Frost and Michel Barnier continued to negotiate a permanent trade agreement.[196] On 24 December 2020 both parties announced that a deal had been reached.[197] The deal was passed by both houses of the British parliament on 30 December and given Royal Assent in the early hours of the next day. In the House of Commons, the governing Conservatives and main opposition Labour voted in favour of the agreement whilst all other opposition parties voted against it.[198] The transition period concluded under its terms the following evening.[199] After the UK said it would unilaterally extend a grace period limiting checks on trade between Northern Ireland and Great Britain, the European Parliament postponed setting a date to ratify the agreement.[200] The vote was later scheduled for 27 April when it passed with an overwhelming majority of votes.[201][202]
+
+There was a customs transitional arrangement in place until 1 July 2021. During this time period, traders importing standard goods from the EU to the UK could defer submitting their customs declarations and paying import duties to HMRC for up to six months. This arrangement simplified and avoided most import controls during the early months of the new situation and was designed to facilitate inward trade during the COVID-19 health crisis and to avoid major disruptions in domestic supply chains in the short term.[203] Following reports that the border infrastructure was not ready, the UK government further postponed import checks from the EU to the UK until the end of the year in order to avoid supply issues during the ongoing Covid crisis.[204] This was again followed by another delay of import controls, in the context of truck driver shortages, which are scheduled to be phased in during 2022.[205]
+
+Political developments within Britain
+Domestic legislation after Article 50 notification
+European Union (Withdrawal) Act 2018
+Main article: European Union (Withdrawal) Act 2018
+In October 2016, Theresa May promised a "Great Repeal Bill", which would repeal the European Communities Act 1972 and restate in British law all enactments previously in force under EU law. Subsequently renamed the European Union (Withdrawal) bill, it was introduced to the House of Commons on 13 July 2017.[206]
+
+On 12 September 2017, the bill passed its first vote and second reading by a margin of 326 votes to 290 votes in the House of Commons.[207] The bill was further amended on a series of votes in both Houses. After the Act became law on 26 June 2018, the European Council decided on 29 June to renew its call on Member States and European Union institutions to step up their work on preparedness at all levels and for all outcomes.[208]
+
+The Withdrawal Act fixed the period ending 21 January 2019 for the government to decide on how to proceed if the negotiations had not reached agreement in principle on both the withdrawal arrangements and the framework for the future relationship between the UK and EU; while, alternatively, making future ratification of the withdrawal agreement as a treaty between the UK and EU depend upon the prior enactment of another act of Parliament for approving the final terms of withdrawal when the Brexit negotiations were completed. In any event, the act did not alter the two-year period for negotiating allowed by Article 50 that ended at the latest on 29 March 2019 if the UK had not by then ratified a withdrawal agreement or agreed a prolongation of the negotiating period.[209]
+
+The Withdrawal Act which became law in June 2018 allowed for various outcomes including no negotiated settlement. It authorises the government to bring into force, by order made under section 25, the provisions that fixed "exit day" and the repeal of the European Communities Act 1972, but exit day must be the same day and time as when the EU Treaties ceased to apply to the UK.[210]
+
+Exit day
+Exit day was the end of 31 January 2020 CET (11.00 p.m. GMT).[178] The European Union (Withdrawal) Act 2018 (as amended by a British Statutory Instrument on 11 April 2019), in section 20 (1), defined 'exit day' as 11:00 p.m. on 31 October 2019.[161] Originally, 'exit day' was defined as 11:00 p.m. on 29 March 2019 GMT (UTC+0).[209][211][212][213][214]
+
+Additional government bills
+A report published in March 2017 by the Institute for Government commented that, in addition to the European Union (Withdrawal) bill, primary and secondary legislation will be needed to cover the gaps in policy areas such as customs, immigration and agriculture.[215] The report also commented that the role of the devolved legislatures was unclear, and could cause problems, and as many as 15 new additional Brexit Bills may be required, which would involve strict prioritisation and limiting Parliamentary time for in-depth examination of new legislation.[216]
+
+In 2016 and 2017, the House of Lords published a series of reports on Brexit-related subjects, including:
+
+Brexit: the options for trade
+Brexit: UK–Irish relations
+Brexit: future UK–EU security and police cooperation
+Brexit: fisheries
+Brexit: environment and climate change
+Brexit: the Crown Dependencies
+Brexit: justice for families, individuals and businesses?
+Brexit: trade in non-financial services
+Nuclear Safeguards Act 2018
+The Nuclear Safeguards Act 2018, relating to withdrawal from Euratom, was presented to Parliament in October 2017. The act makes provision about nuclear safeguards, and for connected purposes. The Secretary of State may by regulations ("nuclear safeguards regulations") make provision for the purpose of – (a) ensuring that qualifying nuclear material, facilities or equipment are available only for use for civil activities (whether in the UK or elsewhere), or (b) giving effect to provisions of a relevant international agreement.[217]
+
+Public opinion
+Further information: Opinion polling on the United Kingdom's membership of the European Union (2016–2020)
+Ambox current red Asia Australia.svg
+This section needs to be updated. Please help update this article to reflect recent events or newly available information.
+Last update: October 2019 (March 2020)
+Opinion polling overall showed an initial fall in support for Brexit from the referendum to late 2016, when responses were split evenly between support and opposition. Support rose again to a plurality, which held until the 2017 general election. Since then, opinion polls tended to show a plurality of support for remaining in the EU or for the view that Brexit was a mistake, with the estimated margin increasing until a small decrease in 2019 (to 53% Remain : 47% Leave, as of October 2019).[218] This seems to be largely due to a preference for remaining in the EU among those who did not vote in 2016's referendum (an estimated 2.5 million of whom, as of October 2019, were too young to vote at the time).[219][220] Other reasons suggested include slightly more Leave voters than Remain voters (14% and 12% of each, respectively, as of October 2019)[221] changing how they would vote (particularly in Labour areas) and the deaths of older voters,[218] most of whom voted to leave the EU. One estimate of demographic changes (ignoring other effects) implies that had an EU referendum taken place in October 2019, there would have been between 800,000 and 900,000 fewer Leave voters and between 600,000 and 700,000 more Remain voters, resulting in a Remain majority.[219]
+
+In March 2019, a petition submitted to the British Parliament petitions website, calling on the government to revoke Article 50 and stay in the EU, reached a record-level of more than 6.1 million signatures.[222][223]
+
+Post-referendum opinion polling (2016-2020)
+
+Opinion polling on whether the UK was right or wrong to vote to leave the EU
+
+ 
+
+Opinion polling on whether the UK should leave or remain in the EU, including "Neither" responses
+
+ 
+
+Opinion polling on whether the UK should leave or remain in the EU, excluding "Neither" responses and normalised
+
+Scotland
+
+First Minister of Scotland Nicola Sturgeon addresses journalists about Brexit related matters at Bute House in 2018
+After the Brexit referendum, the Scottish Government – led by the Scottish National Party (SNP) – planned another independence referendum because Scotland voted to remain in the EU while England and Wales voted to leave.[224] It had suggested this before the Brexit referendum.[225] The First Minister of Scotland, Nicola Sturgeon, requested a referendum be held before the UK's withdrawal, but the British Prime Minister rejected this timing.[226] At the referendum in 2014, 55% of voters had decided to remain in the UK, but the referendum on Britain's withdrawal from the EU was held in 2016, with 62% of Scottish voters against it. In 2017, if Northern Ireland remained associated with the EU – for example, by remaining in the Customs Union, some analysts argued Scotland would also insist on special treatment.[227] However, in the event, the only part of the United Kingdom which received unique treatment was Northern Ireland.[228]
+
+On 21 March 2018, the Scottish Parliament passed the Scottish Continuity Bill.[229] This was passed by stalling negotiations between the Scottish Government and the British Government on where powers within devolved policy areas should lie after Brexit. The Act allowed for all devolved policy areas to remain within the remit of the Scottish Parliament and reduces the executive power upon exit day that the UK Withdrawal Bill provides for Ministers of the Crown.[230] The bill was referred to the Supreme Court, which found that it could not come into force as the European Union (Withdrawal) Act 2018, which received royal assent between the Scottish Parliament passing its bill and the Supreme Court's judgement, designated itself under Schedule 4 of the Scotland Act 1998 as unamendable by the Scottish Parliament.[231] The bill has therefore not received royal assent.[232]
+
+No-deal planning
+See also: No-deal Brexit and Operation Yellowhammer
+On 19 December 2018, the EU Commission revealed its "no-deal" Contingency Action Plan in specific sectors, in respect of the UK leaving the EU "in 100 days' time."[233]
+
+In the wake of the United Kingdom's vote to leave the European Union, the Department for International Trade (DIT) for reaching and extending trade agreements between the UK and non-EU states was created by Prime Minister May, shortly after she took office on 13 July 2016.[234] By 2017, it employed about 200 trade negotiators[235] and was overseen by then Secretary of State for International Trade Liam Fox. In March 2019, the British government announced that it would cut many import tariffs to zero, in the event of a no-deal Brexit.[236] The Confederation of British Industry said the move would be a "sledgehammer for our economy",[237][238][239] and the National Farmer's Union was also highly critical.[240] Additionally, the plan appeared to breach standard WTO rules.[241][237][242][243][244][245]
+
+On 2 June 2020, Chancellor of Germany Angela Merkel stated that the European Union must prepare for the possible failure of Brexit trade talks with the UK. She added that negotiations were being accelerated to try and reach a deal that could be ratified by the end of the year. Her warning came as the deadline for extending talks passed, with negotiations expected to end on 31 December with or without a deal.[246]
+
+Litigation
+There has been litigation to explore the constitutional footings on which Brexit stands after R (Miller) v Secretary of State for Exiting the European Union (simply known as the "Miller case") and the 2017 Notification Act:
+
+In R. (Webster) v Secretary of State for Exiting the European Union, a Divisional Court of Gross LJ and Green MR determined that the substantive decision to leave the EU that was notified on 29 March 2017 was in fact the executive decision of the Prime Minister using a statutory power of decision found to have been delegated to her by the Notification Act: this is confirmed by the House of Commons Library commentary on the case.[247] The case was appealed to the Court of Appeal[248] and paragraph 15 of the judgement, along with the citable nature of the decision were upheld. While the case was criticised academically by Robert Craig, who lectures in jurisprudence at the London School of Economics,[249] aspects of the case's analysis were supported by the Supreme Court in Miller 2 at paragraph 57, which confirmed that:
+Parliament, and in particular the House of Commons as the democratically elected representatives of the people, has a right to have a voice in how that change comes about is indisputable.
+
+This confirmation that the decision was an executive act was part of the basis of R. (Wilson) v. Prime Minister[250] which allied this point with the concerns about the irregularities in the referendum. The High Court hearing was on 7 December 2018 before Ouseley MJ[251] and when judgement was given it was held that: courts' job was not to rule on irregularities in the 'leave' campaign as these were not questions of law; it was also said that the case was brought both too early and too late.[247] Judgement in the Court of Appeal (before Hickinbottom LJ and Haddon-Cave LJ) before also went against the applicant.[252]
+Regarding the reversibility of a notification under Article 50, Wightman and others v Secretary of State for Exiting the European Union was referred to Court of Justice of the European Union;[253] the UK government sought to block this referral, taking the matter on appeal to the Supreme Court, but was unsuccessful.[254] On 10 December 2018, the Court of Justice of the EU ruled that the UK could unilaterally revoke its Article 50 notification.[255]
+Impact
+Main article: Impact of Brexit
+Many effects of Brexit depended on whether the UK left with a withdrawal agreement, or before an agreement was ratified ("no-deal" Brexit).[256] In 2017, the Financial Times said that there were approximately 759 international agreements, spanning 168 non-EU countries, that the UK would no longer be a party to upon leaving the EU.[257]
+
+
+Border crossing at Killeen (near Newry), marked only by a speed limit in km/h (Northern Ireland uses mph).
+Economists expect that Brexit will have damaging immediate and longer term effects on the economies of the UK and at least part of the EU27. In particular, there is a broad consensus among economists and in the economic literature that Brexit will likely reduce the UK's real per capita income in the medium and long term, and that the Brexit referendum itself damaged the economy.[80][7][8][9][10][11][258][259][260] Studies found that Brexit-induced uncertainty reduced British GDP, British national income, investment by business, employment and British international trade from June 2016 onwards.[261][262][263][264][265][266]
+
+A 2019 analysis found that British firms substantially increased offshoring to the EU after the Brexit referendum, whereas European firms reduced new investments in the UK.[267][268] The British government's own Brexit analysis, leaked in January 2018, showed that British economic growth would be stunted by 2–8% over the 15 years following Brexit, the amount depending on the leave scenario.[269][270] Economists warned that London's future as an international financial centre depended on passport agreements with the EU.[271][272] Pro-Brexit activists and politicians have argued for negotiating trade and migration agreements with the "CANZUK" countries—those of Canada, Australia, New Zealand and the United Kingdom[273][274]—but economists have said that trade deals with those countries would be far less valuable to the UK than EU membership.[275][276][277] Studies project that Brexit will exacerbate regional economic inequality in the UK, by hitting already-struggling regions the hardest.[278]
+
+The potential impact on the border between Northern Ireland and the Republic of Ireland has been a contentious issue. Since 2005, the border has been essentially invisible.[279] After Brexit, it became the only UK–EU land border[280] (not counting the land borders EU states, Spain and Cyprus, have with British Overseas Territories). All involved parties agreed a hard border should be avoided,[281] as it might compromise the Good Friday Agreement that ended the Northern Ireland conflict.[282][283][284] To forestall this, the EU proposed a "backstop agreement" (the Northern Ireland Protocol) that would have kept the UK in the Customs Union and kept Northern Ireland in some aspects of the Single Market also, until a lasting solution was found.[285] The backstop was part of the withdrawal agreement, but was replaced in the revised agreement.[174]
+
+Brexit caused the European Union to lose its second-largest economy, its third-most populous country,[286] and the second-largest net contributor to the EU budget.[287] Brexit will result in an additional financial burden for the remaining net contributors, unless the budget is reduced accordingly. The UK will no longer be a shareholder in the European Investment Bank, where it has 16% of the shares.[288] Analyses indicate that the departure of the relatively economically liberal UK will reduce the ability of remaining economically liberal countries to block measures in the Council of the EU.[289][290] In 2019, ahead of Brexit, the European Medicines Agency and European Banking Authority moved their headquarters from London to Amsterdam and Paris, respectively.[291][292][293]
+
+The UK has left the Common Agricultural Policy (CAP),[294] which provides government financial support to farmers in the EU.[295] The UK receives much less than it contributes.[295] Brexit allows the UK to develop its own agriculture policy.[296] The current UK government has committed to maintaining the same payments to farmers until the end of the current parliament, even without a withdrawal agreement.[294] The Agriculture Bill is intended to replace the CAP with a new system.[296] The UK will also leave the Common Fisheries Policy (CFP)[297] that lets all EU countries fish within 12 nautical miles of the British coast[298] and lets the EU set catch quotas.[299] The combined EU fishing fleets land about six million tonnes of fish per year,[300] about half of which are from British waters.[301] By leaving the CFP, the UK could develop its own fisheries policy.[299] The UK will also leave the London Fisheries Convention that lets Irish, French, Belgian, Dutch and German vessels fish within six nautical miles of the UK's coast.[302]
+
+
+Cars crossing into Gibraltar clearing customs formalities. Gibraltar is outside the customs union, VAT area, and Schengen Zone.
+Gibraltar, a British Overseas Territory bordering Spain, is affected by Brexit too. Spain asserts a territorial claim on Gibraltar. After the referendum, Spain's Foreign Minister renewed calls for joint Spanish–British control.[303] In late 2018, the British and Spanish governments agreed that any dispute over Gibraltar would not affect Brexit negotiations,[304] and the British government agreed that UK–EU treaties made after Brexit would not automatically apply to Gibraltar.[305]
+
+Brexit poses challenges to British academia and research, as the UK is likely to lose research funding from EU sources; see a reduction in students from the EU; find it harder to hire researchers from the EU; and British students will find it harder to study abroad in the EU.[13] The UK is currently a member of the European Research Area and likely to wish to remain an associated member following Brexit.[306] The British government has guaranteed funding for research currently funded by EU.[307]
+
+An early 2019 study found that Brexit would deplete the National Health Service (NHS) workforce, create uncertainties regarding care for British nationals living in the EU, and put at risk access to vaccines, equipment, and medicines.[308] The Department of Health and Social Care has said it has taken steps to ensure the continuity of medical supplies after Brexit.[309] The number of non-British EU nurses registering with the NHS fell from 1,304 in July 2016 to 46 in April 2017.[310][needs update]
+
+Under the European Union (Withdrawal) Act 2018, EU laws will no longer have supremacy over British laws after Brexit.[311] To maintain continuity, the Act converts EU law into British law as "retained EU law". After Brexit, the British parliament (and the devolved legislatures) can decide which elements of that law to keep, amend or repeal.[311] Furthermore, British courts will no longer be bound by the judgments of the EU Court of Justice after Brexit.
+
+After Brexit, the UK would be able to control immigration from the EU and EEA,[312] as it can end EU freedom of movement. The current British government intends to replace it with a new system. The government's 2018 white paper proposes a "skills-based immigration system" that prioritizes skilled migrants. EU and EEA citizens already living in the UK can continue living there after Brexit by applying to the EU Settlement Scheme, which began in March 2019. Irish citizens will not have to apply to the scheme.[313][314][315] Studies estimate that Brexit and the end of free movement will likely result in a large decline in immigration from EEA countries to the UK.[12][316] After Brexit, any foreigner wanting to do so more than temporarily would need a work permit.[317][318]
+
+By leaving the EU, the UK would leave the European Common Aviation Area (ECAA), a single market in commercial air travel,[319] but could negotiate a number of different future relationships with the EU.[319] British airlines would still have permission to operate within the EU with no restrictions, and vice versa. The British government seeks continued participation in the European Aviation Safety Agency (EASA).[319] The UK has its own air service agreements with 111 countries, which permit flights to-and-from the country, and further 17 countries through its EU membership.[320] These have since been replaced. Ferries will continue, but with obstacles such as customs checks.[321] New ferry departures between the Republic of Ireland and the European mainland have been established.[321] As of August 2020, the government's Goods Vehicle Movement Service, an IT system essential to post-Brexit goods movements, was still only in the early stages of beta testing, with four months to go before it is required to be in operation.[322]
+
+Concerns have been raised[by whom?] that Brexit might create security problems for the UK, particularly in law enforcement and counter-terrorism where the UK could use the EU's databases on individuals crossing the British border.[323]
+
+Some analysts have suggested that the severe economic impact of the COVID-19 pandemic in the UK has masked the economic impact of Brexit in 2021.[324] In December 2021, the Financial Times quoted a range of economists as saying that the economic impact of Brexit on the UK economy and living standards "appears to be negative but uncertain".[325] Over time, the new trade agreement between the EU and UK could result in 4% reduction in British productivity compared to if the 2016 EU referendum gone the other way, according to the Office for Budget Responsibility.[326]
+
+Brexit was widely described as a factor contributing to the 2021 United Kingdom natural gas supplier crisis, in which panic buying led to serious disruption of road fuel supplies across the UK, as it exacerbated the UK's shortage of HGV drivers.[327][328][329] The Road Haulage Association estimated[when?] the UK needs about 100,000 truck drivers.[330][331]
+
+Cultural references
+Main article: Brexit in popular culture
+Brexit has inspired many creative works, such as murals, sculptures, novels, plays, movies and video games. The response of British artists and writers to Brexit has in general been negative, reflecting a reported overwhelming percentage of people involved in Britain's creative industries voting against leaving the European Union.[332] Despite issues around immigration being central in the Brexit debate, British artists left the migrants' perspective largely unexplored. However, Brexit also inspired UK-based migrant artists to create new works and "claim agency over their representation within public spaces and create a platform for a new social imagination that can facilitate transnational and trans-local encounters, multicultural democratic spaces, sense of commonality, and solidarity."[333]
+
+
+Anti-Brexit protest in Manchester (2017) by sculptor Jacques Tilly
+
+ 
+
+Düsseldorf carnival parade in February 2018 by German sculptor Jacques Tilly
+
+See also
+flag	European Union portal
+icon	Modern history portal
+icon	Politics portal
+flag	United Kingdom portal
+European Union (Withdrawal Agreement) Act 2020
+EU–UK Trade and Cooperation Agreement
+International reactions to the 2016 United Kingdom European Union membership referendum
+Opposition to Brexit in the United Kingdom
+Referendums related to the European Union
+Multi-speed Europe
+Interpretation of EU Treaty law by European Court of Justice
+2010s in United Kingdom political history
+2020s in United Kingdom political history
+Danish withdrawal from the European Union
+Dutch withdrawal from the European Union
+Frexit
+Greek withdrawal from the eurozone
+Hungarian withdrawal from the European Union
+Polexit
+Romanian withdrawal from the European Union
+Notes
+ The UK also left the European Atomic Energy Community (EAEC or Euratom).
+ Greenland left the EC on 1 February 1985.
+Citations
+ Hall, Damien (11 August 2017). "'Breksit' or 'bregzit'? The question that divides a nation". The Conversation. Archived from the original on 4 July 2019. Retrieved 22 March 2019.
+ House of Lords European Union Committee (1 June 2020). 9th Report of Session 2019–21: The Protocol on Ireland/Northern Ireland (Report). House of Lords. p. 65. Archived from the original on 31 January 2021. Retrieved 12 August 2021. The Protocol will also confer full jurisdiction on the CJEU to oversee the operation of EU law applying to Northern Ireland in relation to customs and the movement of goods, technical regulations, VAT and excise, the Single Electricity Market and State aid; including the jurisdiction to hear applications for preliminary rulings submitted by the courts of Northern Ireland. The UK will have the right to participate in these proceedings as if it were a Member State.
+ House of Lords European Union Committee (1 June 2020). 9th Report of Session 2019–21: The Protocol on Ireland/Northern Ireland (Report). House of Lords. p. 28. Archived from the original on 31 January 2021. Retrieved 12 August 2021. The provisions of Article 5 ensure that Northern Ireland will continue to be able to participate in the EU Single Market for goods, thereby maintaining supply chains on the island of Ireland.
+ House of Lords European Union Committee (1 June 2020). 9th Report of Session 2019–21: The Protocol on Ireland/Northern Ireland (Report). House of Lords. p. 17. Archived from the original on 31 January 2021. Retrieved 12 August 2021. Notwithstanding the statement in Article 4 of the Protocol that Northern Ireland is part of the customs territory of the UK, the practical implication of Article 5(3) is that, with limited exceptions, the entirety of the EU’s customs legislation, including the Union Customs Code, will apply in Northern Ireland.
+ Vicki Young (23 January 2013). "David Cameron to pledge referendum on the UK and Europe". BBC News. Retrieved 30 August 2021.
+ "EU-UK trade and cooperation agreement: Council adopts decision on conclusion". www.consilium.europa.eu. 29 April 2021.
+ Baldwin, Richard (31 July 2016). "Brexit Beckons: Thinking ahead by leading economists". VoxEU. Centre for Economic Policy Research. Archived from the original on 25 November 2017. Retrieved 22 November 2017. On 23 June 2016, 52% of British voters decided that being the first country to leave the EU was a price worth paying for 'taking back control', despite advice from economists clearly showing that Brexit would make the UK 'permanently poorer' (HM Treasury 2016). The extent of agreement among economists on the costs of Brexit was extraordinary: forecast after forecast supported similar conclusions (which have so far proved accurate in the aftermath of the Brexit vote).
+ Giles, Chris; Tetlow, Gemma (7 January 2017). "Most economists still pessimistic about effects of Brexit". Financial Times. Archived from the original on 22 July 2019. Retrieved 22 November 2017.
+ Giles, Chris (16 April 2017). "Brexit will damage UK standards of living, say economists". Financial Times. Archived from the original on 22 July 2019. Retrieved 22 November 2017. Unlike the short-term effects of Brexit, which have been better than most had predicted, most economists say the ultimate impact of leaving the EU still appears likely to be more negative than positive. But the one thing almost all agree upon is that no one will know how big the effects are for some time.
+ "Brexit to Hit Jobs, Wealth and Output for Years to Come, Economists Say". Bloomberg L.P. 22 February 2017. Archived from the original on 22 July 2019. Retrieved 22 November 2017. The U.K. economy may be paying for Brexit for a long time to come ... It won't mean Armageddon, but the broad consensus among economists—whose predictions about the initial fallout were largely too pessimistic—is for a prolonged effect that will ultimately diminish output, jobs and wealth to some degree.
+ Johnson, Paul; Mitchell, Ian (1 March 2017). "The Brexit vote, economics, and economic policy". Oxford Review of Economic Policy. 33 (suppl_1): S12–S21. doi:10.1093/oxrep/grx017. ISSN 0266-903X.
+ Forte, Giuseppe; Portes, Jonathan (1 May 2017). Macroeconomic Determinants of International Migration to the UK (Report). Rochester, NY. SSRN 2979949.
+ Mayhew, Ken (1 March 2017). "UK higher education and Brexit". Oxford Review of Economic Policy. 33 (suppl_1): S155–S161. doi:10.1093/oxrep/grx012. ISSN 0266-903X.
+ Asa Bennett (27 January 2020). "How will the Brexit transition period work?". Telegraph. Archived from the original on 28 January 2020. Retrieved 28 January 2020.
+ Tom Edgington (31 January 2020). "Brexit: What is the transition period?". BBC News. Archived from the original on 31 January 2020. Retrieved 1 February 2020.
+ "Questions and Answers on the United Kingdom's withdrawal from the European Union on 31 January 2020". European Commission. 24 January 2020. Archived from the original on 1 February 2020. Retrieved 1 February 2020.
+ "House of Commons votes to seek Article 50 extension". 14 March 2019. Retrieved 11 May 2020.
+ "Revised Withdrawal Agreement" (PDF). European Commission. 17 October 2019. Archived (PDF) from the original on 17 October 2019. Retrieved 17 October 2019.
+ "New Brexit deal agreed, says Boris Johnson". BBC News. 17 October 2019. Archived from the original on 13 December 2019. Retrieved 17 October 2019.
+ Landler, Mark; Castle, Stephen (12 December 2019). "Conservatives Win Commanding Majority in U.K. Vote: 'Brexit Will Happen'". The New York Times. New York City. Archived from the original on 13 December 2019. Retrieved 12 December 2019 – via MSN.
+ Boffey, Daniel; Proctor, Kate (24 January 2020). "Boris Johnson signs Brexit withdrawal agreement". The Guardian. Archived from the original on 24 January 2020. Retrieved 24 January 2020.
+ Sparrow, Andrew (30 January 2020). "Brexit: MEPs approve withdrawal agreement after emotional debate and claims UK will return – live news". The Guardian. Archived from the original on 29 January 2020. Retrieved 30 January 2020.
+ "Brexit: UK leaves the European Union". BBC News. 1 February 2020. Archived from the original on 14 March 2020. Retrieved 11 April 2020.
+ Al Jazeera. (2018). Brexit jargon: From backstop to no deal, 17 key terms explained (Al Jazeera) Archived 22 May 2019 at the Wayback Machine. Retrieved 29 March 2019.
+ BBC. (2019). Brexit: Jargon-busting guide to the key terms (BBC) Archived 7 September 2019 at the Wayback Machine. Retrieved 29 March 2019.
+ "1967: De Gaulle says "non" to Britain – again". BBC News. 27 November 1976. Archived from the original on 2 February 2019. Retrieved 9 March 2016.
+ "Into Europe". Parliament of the United Kingdom. Archived from the original on 28 March 2019. Retrieved 25 February 2017.
+ "English text of EU Accession Treaty 1972, Cmnd. 7463" (PDF). Archived from the original (PDF) on 21 December 2016. Retrieved 24 February 2017.
+ "1973: Britain joins the EEC". BBC News. 1 January 1973. Archived from the original on 14 January 2019. Retrieved 9 March 2016.
+ Alex May, Britain and Europe since 1945 (1999).
+ "BBC on this day – 26 – 1975: Labour votes to leave the EEC". BBC. Archived from the original on 12 December 2018. Retrieved 20 May 2017.
+ the Shetland Islands and the Outer Hebrides
+ Miller, Vaughne (13 July 2015). "Research Briefings – The 1974–1975 UK Renegotiation of EEC Membership and Referendum". Parliament of the United Kingdom. Archived from the original on 26 April 2019. Retrieved 19 May 2016.
+ "Who Voted for Brexit? A comprehensive district level analysis". Becker, Fetzer, Novy, University of Warwick. Archived from the original on 1 April 2019. Retrieved 22 November 2016.
+ Vaidyanathan, Rajini (4 March 2010). "Michael Foot: What did the "longest suicide note" say?". BBC News. Archived from the original on 2 September 2017. Retrieved 21 October 2015.
+ Dury, Hélène. "Black Wednesday" (PDF). Archived (PDF) from the original on 1 October 2018. Retrieved 24 February 2016.
+ "EU treaties". Europa (web portal). Archived from the original on 13 September 2016. Retrieved 15 September 2016.
+ "EUROPA The EU in brief". Europa (web portal). Archived from the original on 26 July 2016. Retrieved 19 May 2016.
+ Bogdanor also quotes John Locke's The Second Treatise of Government: 'The Legislative cannot transfer the power of making laws to any other hands. For it being but a delegated power from the People, they who have it cannot pass it to others.' – Bogdanor, Vernon (8 June 1993). Why the people should have a vote on Maastricht: The House of Lords must uphold democracy and insist on a referendum Archived 29 June 2019 at the Wayback Machine. The Independent.
+ Bogdanor, Vernon (26 July 1993). Futility of a House with no windows Archived 8 July 2019 at the Wayback Machine. The Independent.
+ Kuper, Simon (20 June 2019). "How Oxford university shaped Brexit – and Britain's next prime minister". Financial Times. Archived from the original on 21 June 2019. Retrieved 21 June 2019.
+ Heath, Anthony; Jowell, Roger; Taylor, Bridget; Thomson, Katarina (1 January 1998). "Euroscepticism and the referendum party". British Elections & Parties Review. 8 (1): 95–110. doi:10.1080/13689889808413007. ISSN 1368-9886.
+ Carter, N.; Evans, M.; Alderman, K.; Gorham, S. (1 July 1998). "Europe, Goldsmith and the Referendum Party". Parliamentary Affairs. 51 (3): 470–485. doi:10.1093/oxfordjournals.pa.a028811. ISSN 0031-2290.
+ "UK Election 1997". Politicsresources.net. Archived from the original on 21 September 2011. Retrieved 16 July 2015.
+ "10 key lessons from the European election results". The Guardian. 26 May 2014. Archived from the original on 2 April 2019. Retrieved 31 May 2014.
+ "Does Migration Cause Extreme Voting?" (PDF). Becker and Fetzer, University of Warwick. 18 October 2016. Archived (PDF) from the original on 14 November 2016. Retrieved 30 November 2016.
+ Haigh, Phil (11 December 2018). "Why did David Cameron call a referendum on Brexit?". Metro. Retrieved 15 January 2022.
+ Matt Osborn (7 May 2015). "2015 UK general election results in full". The Guardian. Archived from the original on 2 April 2019. Retrieved 11 December 2016.
+ Mortimore, Roger. "Polling history: 40 years of British views on "in or out" of Europe". The Conversation. Archived from the original on 3 April 2019. Retrieved 25 October 2016.
+ Gifford, Chris. The Making of Eurosceptic Britain. Ashgate Publishing, 2014. pp. 55, 68
+ Foster, Anthony. Euroscepticism in Contemporary British Politics: Opposition to Europe in the Conservative and Labour Parties since 1945. Routledge, 2003. pp. 68–69
+ Taylor, Graham. Understanding Brexit: Why Britain Voted to Leave the European Union. Emerald Group Publishing, 2017. p. 91. Quote: "The coalition that came together to secure Brexit, however, included a diverse range of individuals, groups and interests. [...] There were also supporters of Brexit on the left ..."
+ Tarran, Brian (8 April 2016). "The Economy: a Brexit vote winner?". Significance. 13 (2): 6–7. doi:10.1111/j.1740-9713.2016.00891.x.
+ Nicholas Watt (29 June 2012). "Cameron defies Tory right over EU referendum: Prime minister, buoyed by successful negotiations on eurozone banking reform, rejects "in or out" referendum on EU". The Guardian. London. Archived from the original on 26 December 2015. Retrieved 2 July 2012. David Cameron placed himself on a collision course with the Tory right when he mounted a passionate defence of Britain's membership of the EU and rejected out of hand an "in or out" referendum.
+ Sparrow, Andrew (1 July 2012). "PM accused of weak stance on Europe referendum". The Guardian. London. Archived from the original on 4 June 2016. Retrieved 2 July 2012. Cameron said he would continue to work for "a different, more flexible and less onerous position for Britain within the EU".
+ "David Cameron 'prepared to consider EU referendum'". BBC News. 1 July 2012. Archived from the original on 2 July 2012. Retrieved 2 July 2012. Mr Cameron said ... he would 'continue to work for a different, more flexible and less onerous position for Britain within the EU'.
+ "David Cameron promises in/out referendum on EU". BBC News. 23 January 2013. Archived from the original on 4 April 2019. Retrieved 23 April 2016.
+ "At-a-glance: Conservative manifesto". BBC News. 15 April 2015. Archived from the original on 3 April 2019. Retrieved 21 September 2018.
+ Perraudin, Frances (14 April 2015). "Conservatives election manifesto 2015 – the key points". The Guardian. Archived from the original on 2 April 2019. Retrieved 27 January 2019.
+ "David Cameron sets out EU reform goals". BBC News. 11 November 2015. Archived from the original on 2 April 2019. Retrieved 16 January 2016.
+ New Open Europe/ComRes poll: Failure to win key reforms could swing UK's EU referendum vote Archived 15 June 2018 at the Wayback Machine openeurope.org, 16 December 2015.
+ Spaventa, Eleanore (22 February 2016). "Explaining the EU deal: the "emergency brake"". Archived from the original on 29 March 2019. Retrieved 25 October 2016.
+ "Prime Minister sets out legal framework for EU withdrawal". UK Parliament. 22 February 2016. Archived from the original on 15 February 2019. Retrieved 29 February 2016.
+ "The process for withdrawing from the European Union" (PDF). Government of the United Kingdom. Archived (PDF) from the original on 24 February 2018. Retrieved 24 June 2016.
+ "Three years since the Brexit vote, meet the man behind Leave and Remain". ITV News. 23 June 2019. Archived from the original on 25 June 2019. Retrieved 25 June 2019.
+ "EU referendum: BBC forecasts UK votes to leave". BBC News. 24 June 2016. Archived from the original on 24 July 2019. Retrieved 24 June 2016.
+ "EU Referendum Results". Sky (United Kingdom). Archived from the original on 24 June 2016. Retrieved 24 June 2016.
+ Hooton, Christopher (24 June 2016). "Brexit: Petition for second EU referendum so popular the government site's crashing". The Independent. Independent Print Limited. Archived from the original on 26 July 2019. Retrieved 24 June 2016.
+ Boult, Adam (26 June 2016). "Petition for second EU referendum attracts thousands of signatures". The Daily Telegraph. Archived from the original on 24 June 2016. Retrieved 26 June 2016.
+ "Brexit: Petition for second EU referendum rejected". BBC News. 9 July 2016. Archived from the original on 26 July 2019. Retrieved 9 July 2016.
+ "EU referendum results". Electoral Commission. Archived from the original on 30 June 2019.
+ Sascha O Becker, Thiemo Fetzer, Dennis Novy. "Who voted for Brexit? A comprehensive district-level analysis". Economic Policy, Volume 32, Issue 92, 1 October 2017, pp. 601–650. Quotes: "We find that fundamental characteristics of the voting population were key drivers of the Vote Leave share, in particular, their education profiles, their historical dependence on manufacturing employment as well as low income and high unemployment. At the much finer level of wards within cities, we find that areas with deprivation in terms of education, income and employment were more likely to vote Leave. [...] A larger flow of migrants from Eastern Europe reaching a local authority area with a larger share of unqualified people or a larger share of manufacturing workers is also associated with a larger Vote Leave share".
+ Noel Dempsey & Neil Johnston. "Political disengagement in the UK: who is disengaged?" Archived 29 March 2019 at the Wayback Machine. House of Commons briefing paper. House of Commons Library, 14 September 2018. pp. 25–26
+ Hobolt, Sara B. (20 October 2016). "The Brexit vote: a divided nation, a divided continent" (PDF). Journal of European Public Policy. 23 (9): 1259–1277. doi:10.1080/13501763.2016.1225785. ISSN 1350-1763. S2CID 158006844. Archived (PDF) from the original on 6 October 2019. Retrieved 4 September 2019.
+ Becker, Sascha O.; Fetzer, Thiemo; Novy, Dennis (1 October 2017). "Who voted for Brexit? A comprehensive district-level analysis". Economic Policy. 32 (92): 601–650. doi:10.1093/epolic/eix012. ISSN 0266-4658.
+ Carreras, Miguel (1 December 2019). "'What do we have to lose?': Local economic decline, prospect theory, and support for Brexit". Electoral Studies. 62: 102094. doi:10.1016/j.electstud.2019.102094. ISSN 0261-3794. S2CID 211461199.
+ Koltai, Jonathan; Varchetta, Francesco Maria; McKee, Martin; Stuckler, David (2020). "Deaths of Despair and Brexit Votes: Cross-Local Authority Statistical Analysis in England and Wales". American Journal of Public Health. 110 (3): e1–e6. doi:10.2105/AJPH.2019.305488. ISSN 0090-0036. PMC 7002930. PMID 31855481.
+ Fetzer, Thiemo (2019). "Did Austerity Cause Brexit?". American Economic Review. 109 (11): 3849–3886. doi:10.1257/aer.20181164. ISSN 0002-8282.
+ Spratt, Vicky (26 September 2018). "The truth about young people and Brexit". BBC Three. Archived from the original on 25 November 2019. Retrieved 4 December 2019.
+ Sampson, Thomas (2017). "Brexit: The Economics of International Disintegration" (PDF). Journal of Economic Perspectives. 31 (4): 163–184. doi:10.1257/jep.31.4.163. ISSN 0895-3309. S2CID 158102705. Archived (PDF) from the original on 14 December 2019. Retrieved 20 October 2019. The results I summarize in this section focus on long-run effects and have a forecast horizon of 10 or more years after Brexit occurs. Less is known about the likely dynamics of the transition process or the extent to which economic uncertainty and anticipation effects will impact the economies of the United Kingdom or the European Union in advance of Brexit.
+ "How Britain voted at the EU referendum". 2016.
+ "EU Referendum results". 2016.
+ "How the United Kingdom voted on Thursday ... and why" Archived 1 April 2019 at the Wayback Machine. Lord Ashcroft Polls. 24 June 2016.
+ "EU campaign firm fined for sending spam texts". Information Commissioner's Office. 11 May 2016. Archived from the original on 5 July 2017.
+ Maidment, Jack (19 December 2017) "Liberal Democrats fined £18,000 for breaching campaign finance rules relating to EU referendum". The Daily Telegraph.
+ Weaver, Matthew (11 May 2018). "Leave.EU fined £70k over breaches of electoral law". The Guardian. Retrieved 11 May 2018.
+ "Campaigners and political parties fined for breaching political finance rules"[permanent dead link]. The Electoral Commission. 15 May 2018
+ "Vote Leave fined and referred to the police for breaking electoral law" Archived 29 July 2019 at the Wayback Machine. The Electoral Commission. 17 July 2018
+ Gillett, Francesca. "Electoral Commission launches probe into Russian meddling in Brexit vote using Twitter and Facebook". Evening Standard. Retrieved 29 April 2021.
+ "Theresa May must investigate 'foreign influence and voter manipulation' in Brexit vote, say MPs". The Independent. 18 February 2019. Retrieved 18 February 2019.
+ Ellehuus, Rachel. "Did Russia Influence Brexit?". Center for Strategic and International Studies. Retrieved 29 April 2021.
+ Kentish, Benjamin (29 March 2017). "Article 50 was designed for European dictators, not the UK, says man who wrote it". The Independent. Archived from the original on 29 December 2019. Retrieved 29 December 2019.
+ Rankin, Jennifer; Borger, Julian; Rice-Oxley, Mark (25 June 2016). "What is article 50 and why is it so central to the Brexit debate?". The Guardian. Archived from the original on 29 December 2019. Retrieved 29 December 2019.
+ Renwick, Alan (19 January 2016). "What happens if we vote for Brexit?". The Constitution Unit Blog. Archived from the original on 31 July 2019. Retrieved 14 May 2016.
+ In a leaflet sent out before the referendum, the UK government stated "This is your decision. The Government will implement what you decide." "Why the Government believes that voting to remain in the European Union is the best decision for the UK. The EU referendum, Thursday, 23 June 2016" (PDF). Archived (PDF) from the original on 24 March 2018. Retrieved 28 November 2016.
+ "Brexit: David Cameron to quit after UK votes to leave EU". BBC News. 24 June 2016. Archived from the original on 24 July 2019. Retrieved 24 June 2016.
+ Cooper, Charlie (27 June 2016). "David Cameron rules out second EU referendum after Brexit". The Independent. London. Archived from the original on 16 June 2019. Retrieved 27 June 2016.
+ Mason, Rowena; Oltermann, Philip (20 July 2016). "Angela Merkel backs Theresa May's plan not to trigger Brexit this year". The Guardian. Archived from the original on 20 July 2016. Retrieved 29 December 2019.
+ Spence, Alex (2 October 2016). "Theresa May to begin Brexit process by end of March". Politico. Archived from the original on 29 December 2019. Retrieved 29 December 2019.
+ Cooper, Charlie (9 December 2016). "British MPs back Theresa May's Brexit timetable". Politico. Archived from the original on 29 December 2019. Retrieved 29 December 2019.
+ Bowcott, Owen; Mason, Rowena; Asthana, Anushka (24 January 2017). "Supreme court rules parliament must have vote to trigger article 50". The Guardian. Archived from the original on 27 May 2019. Retrieved 9 February 2017.
+ "Queen gives royal assent to Article 50 Bill, clearing way for Theresa May to start European Union exit talks". The Telegraph. 16 March 2017. Archived from the original on 29 December 2019. Retrieved 29 December 2019.
+ "Article 50: UK set to formally trigger Brexit process". BBC. 29 March 2017. Archived from the original on 27 July 2019. Retrieved 29 December 2019.
+ "'No turning back' on Brexit as Article 50 triggered". BBC News. 30 March 2017. Archived from the original on 27 July 2019. Retrieved 29 December 2019.
+ McAuley, James (9 June 2017). "After shocking British vote result, Europe ponders fate of Brexit negotiations". The Washington Post. Archived from the original on 29 December 2019. Retrieved 29 December 2019.
+ Asthana, Anushka; Walker, Peter (19 April 2017). "Theresa May calls for general election to secure Brexit mandate". The Guardian. Archived from the original on 12 July 2019. Retrieved 19 April 2017.
+ "General election 2017: UKIP needed to stop Brexit 'backsliding'". BBC News. 28 April 2017. Archived from the original on 27 July 2019. Retrieved 29 April 2017.
+ Anushka Asthana (24 April 2017). "Labour vows to rip up and rethink Brexit white paper". The Guardian. Archived from the original on 14 July 2019. Retrieved 25 April 2017.
+ "General Election 2017: Labour's 'day one' pledge to EU nationals". BBC News. 25 April 2017. Archived from the original on 27 July 2019. Retrieved 25 April 2017.
+ "'This is your chance,' Lib Dems tell voters opposed to Hard Brexit". The Herald. 18 April 2017. Archived from the original on 25 August 2018. Retrieved 23 April 2017.
+ "Green Party leader Caroline Lucas calls for second EU referendum". The Independent. 2 September 2016. Archived from the original on 12 June 2019. Retrieved 19 April 2017.
+ "Lib Dem leader Tim Farron responds to Theresa May's general election announcement". The Independent. 18 April 2017. Archived from the original on 5 July 2019. Retrieved 19 April 2017.
+ "Stronger for Scotland" (PDF). SNP website. 1 June 2017. Archived (PDF) from the original on 9 June 2017. Retrieved 13 June 2018.
+ "SNP manifesto summary: Key points at-a-glance". BBC News. 30 May 2017. Archived from the original on 6 December 2018. Retrieved 13 June 2018.
+ "Election 2017 Results". BBC News. 9 June 2017. Archived from the original on 31 May 2019. Retrieved 13 June 2018.
+ "Conservatives agree pact with DUP to support May government". BBC News. 26 June 2017. Archived from the original on 28 July 2019. Retrieved 26 June 2017.
+ Hunt, Alex (26 June 2019). "Theresa May and the DUP deal: What you need to know". BBC News. Archived from the original on 26 June 2019. Retrieved 30 December 2019.
+ "The government's negotiating objectives for exiting the EU: PM speech". Gov.uk. 17 January 2017. Archived from the original on 22 January 2017. Retrieved 24 January 2017.
+ "Council (Art 50) authorises the start of Brexit talks and adopts negotiating directives – Consilium". Europa (web portal). Archived from the original on 28 September 2017. Retrieved 23 May 2017.
+ "Brexit: UK caves in to EU demand to agree divorce bill before trade talks" Archived 20 June 2019 at the Wayback Machine, The Guardian, 19 June 2017. Retrieved 20 June 2017
+ Foster, Peter (29 April 2017). "EU Brexit guidelines: What's in the document, and what it really means". The Daily Telegraph. Archived from the original on 2 April 2019. Retrieved 14 May 2017.
+ "Divorce settlement or leaving the club? A breakdown of the Brexit bill" March 2017, A breakdown of the Brexit bill (2017) Archived 9 July 2018 at the Wayback Machine
+ "The Latest: EU's Brexit Chief Welcomes 'Constructive' Speech". USNews.com. Archived from the original on 30 March 2019. Retrieved 1 November 2017.
+ Roberts, Dan (20 June 2017). "Brexit: UK caves in to EU demand to agree divorce bill before trade talks". The Guardian. London. Archived from the original on 20 June 2019. Retrieved 9 September 2017.
+ "Terms of Reference for the Article 50 TEU negotiations" (PDF). European Commission. 19 June 2017. Archived (PDF) from the original on 29 August 2017. Retrieved 29 August 2017.
+ Walker, Nigel; McGuinness, Terry; Keen, Richard; Hinson, Suzanna; Curtis, John; Miller, Vaughne; Lang, Arabella (12 July 2017). "Brexit: the talks begin". House of Commons Library. Archived from the original on 20 August 2017. Retrieved 20 August 2017.
+ "Let the Brussels games begin". Economist.com. Archived from the original on 23 September 2018. Retrieved 22 September 2018.
+ "Brexit breakthrough: May pledges 'no hard border' as commission says 'sufficient progress' made". The Irish Times. 8 December 2017. Retrieved 8 December 2017.
+ Hope, Christopher (11 December 2017). "Theresa May to tell Ireland 'nothing is agreed' on terms of Brexit as row over deal intensifies". The Telegraph. Archived from the original on 17 October 2019. Retrieved 18 October 2019.
+ Boffey, Daniel (15 December 2017). "EU leaders agree Brexit talks can move on to phase two". The Guardian. Archived from the original on 17 October 2019. Retrieved 18 October 2019.
+ Castle, Stephen (19 March 2018). "U.K. Reaches Brexit Transition Deal With E.U." The New York Times. Archived from the original on 29 June 2018. Retrieved 30 August 2018.
+ "Border deal is not likely until October, Taoiseach claims". The Irish Times. 11 June 2018. Archived from the original on 11 July 2018. Retrieved 11 June 2018.
+ Carswell, Simon (12 October 2018). "Brexit explained: What is Theresa May's Chequers plan?". Irish Times. Archived from the original on 15 August 2019. Retrieved 18 October 2019.
+ Stewart, Heather (9 July 2018). "Brexit secretary David Davis resigns plunging government into crisis". The Guardian. Archived from the original on 31 July 2018. Retrieved 1 August 2018.
+ Stewart, Heather; Crerar, Pippa; Sabbagh, Dan (9 July 2018). "May's plan 'sticks in the throat', says Boris Johnson as he resigns over Brexit". The Guardian. Archived from the original on 31 August 2018. Retrieved 31 August 2018.
+ Cooper, Charlie; Bayer, Lili; Barigazzi, Jacopo (14 November 2018). "Theresa May calls Cabinet meeting to approve Brexit 'draft agreement'". Politico. Archived from the original on 30 December 2019. Retrieved 30 December 2019.
+ "Brexit: Cabinet backs draft agreement". BBC News. 14 November 2018. Archived from the original on 19 April 2019. Retrieved 15 November 2018.
+ "Brexit: Dominic Raab and Esther McVey among ministers to quit over EU agreement". BBC News. 15 November 2018. Archived from the original on 17 June 2019. Retrieved 15 November 2018.
+ "EU leaders agree UK's Brexit deal at Brussels summit". BBC News. 25 November 2019. Archived from the original on 10 September 2019. Retrieved 30 December 2019.
+ Cook, Lorne; Lawless, Jill; Casert, Raf (25 November 2018). "EU seals Brexit deal as May faces a hard sell at home". Associated Press. Archived from the original on 30 December 2019. Retrieved 30 December 2019.
+ Stewart, Heather (25 November 2018). "Not sad but defiant: Theresa May makes case for Brexit deal". The Guardian. Archived from the original on 30 December 2019. Retrieved 30 December 2019.
+ "Theresa May calls off vote on Brexit deal after massive opposition from Tory rebels". The Independent. 10 December 2018. Archived from the original on 19 June 2019. Retrieved 11 December 2018.
+ Boffey, Daniels (10 December 2018). "EU figures rule out concessions as May postpones Brexit vote". The Guardian. Archived from the original on 22 May 2019. Retrieved 29 December 2018.
+ "Welsh Labour MPs call for no confidence vote". ITV News. Archived from the original on 8 July 2019. Retrieved 11 December 2018.
+ "Brexit ruling: UK can cancel decision, EU court says". BBC News. 10 December 2018. Archived from the original on 3 January 2020. Retrieved 29 December 2019.
+ Taylor, Robert; Wilson, Adelyn (11 December 2018). "Revoking Article 50 after the ECJ's ruling". The UK in a Changing Europe. Archived from the original on 10 July 2019. Retrieved 29 December 2019.
+ Jessica Elgot & Heather Stewart, Theresa May splits Tories over anti-backstop Brexit deal Archived 26 February 2019 at the Wayback Machine, The Guardian (28 January 2019).
+ Laura Hughes, Eurosceptics still defiant over May's Brexit deal Archived 26 February 2019 at the Wayback Machine, Financial Times (13 December 2018).
+ William Booth, May's plan for phasing Britain out of the E.U. Archived 26 February 2019 at the Wayback Machine, Washington Post (25 November 2018).
+ Jack Maidment, Eurosceptic Tories publish analysis of Theresa May's Brexit deal and claim UK could pay EU £39bn 'for nothing' Archived 26 February 2019 at the Wayback Machine, The Daily Telegraph (18 November 2018).
+ "Brexit: Theresa May's deal is voted down in historic Commons defeat". BBC News. 15 January 2019. Archived from the original on 30 April 2019. Retrieved 16 January 2019.
+ Voce, Antonio; Clarke, Seán; Voce, Antonio; Clarke, Seán. "How did your MP vote on May's Brexit deal?". The Guardian. ISSN 0261-3077. Archived from the original on 14 July 2019. Retrieved 15 January 2019.
+ Stewart, Heather (15 January 2019). "Theresa May loses Brexit deal vote by majority of 230". The Guardian. ISSN 0261-3077. Archived from the original on 13 July 2019. Retrieved 15 January 2019.
+ Rayner, Gordon; Maidment, Jack; Crisp, James; Yorke, Harry (16 January 2019). "No confidence vote result: Theresa May wins confidence vote but is snubbed by Jeremy Corbyn over cross-party Brexit talks". The Telegraph. ISSN 0307-1235. Archived from the original on 16 April 2019. Retrieved 17 January 2019.
+ "Another delay: Britain's May promises Brexit vote in parliament by March 12". Reuters. 24 February 2019. Archived from the original on 24 May 2019. Retrieved 23 January 2020.
+ "Brexit: MPs reject Theresa May's deal for a second time". BBC News. 13 March 2019. Archived from the original on 13 March 2019. Retrieved 19 March 2019.
+ "Third Brexit vote must be different – Speaker". BBC News. 18 March 2019. Archived from the original on 18 March 2019. Retrieved 18 March 2019.
+ "Brexit: MPs face new vote on withdrawal deal". BBC News. 29 March 2019. Archived from the original on 29 March 2019. Retrieved 29 March 2019.
+ "Brexit: Brexit: MPs reject May's EU withdrawal agreement". BBC News. 29 March 2019. Archived from the original on 29 March 2019. Retrieved 29 March 2019.
+ "Brexit: 'Tired' public needs a decision, says Theresa May". BBC News. 20 March 2019. Archived from the original on 21 March 2019. Retrieved 21 March 2019.
+ "Statutory Instruments – 2019 No. 859 – Exiting The European Union – The European Union (Withdrawal) Act 2018 (Exit Day) (Amendment) (No. 2) Regulations 2019" (PDF). The Stationery Office Limited. 11 April 2019. Archived (PDF) from the original on 17 April 2019. Retrieved 13 April 2019.
+ "Brexit: Theresa May to urge MPs to back deal as delay agreed". BBC News. 22 March 2019. Archived from the original on 22 March 2019. Retrieved 22 March 2019.
+ Ciaran McGrath (26 March 2019). "Get us out NOW! May's Brexit delay 'UNLAWFUL' – MPs issue shock legal block". Daily Express. Archived from the original on 27 March 2019. Retrieved 28 March 2019. ... Brexiteer MPs led by Sir Bill Cash have written to Mrs May warning of their "serious legal objections" to her decision to delay Article 50, and hence Brexit, beyond 29 March. ... The Government is confident a proposed law change altering the Brexit date is "legally correct" in response to concerns raised by lawyers. Ministers were pressed over the legality of the statutory instrument (SI) to change the exit day of the UK's withdrawal from the EU by Lord Pannick, who successfully led the Supreme Court Article 50 case against the Government. ... The concern centres on the SI, due to be debated by peers and MPs on Wednesday, containing two alternative exit days.
+ "Amendment to the Motion – Business of the House – Motion to Agree – in the House of Lords at 3:06 pm on 26th March 2019". TheyWorkForYou. 26 March 2019. Archived from the original on 28 March 2019. Retrieved 28 March 2019. ... Lord Pannick: ... A number of lawyers have expressed concern about the legality of this statutory instrument. The concern is that it sets out two alternative exit days: 12 April or 22 May.
+ Andrew Sparrow; Jedidajah Otte (27 March 2019). "All eight indicative vote options on Brexit defeated by MPs – as it happened". The Guardian. Archived from the original on 28 March 2019. Retrieved 28 March 2019. The statutory instrument needs to be passed by both the Commons and the Lords. In the Lords peers passed it earlier today, without a division
+ Daniel Thomas (27 March 2019). "MPs vote down rival Brexit plans as May offers to resign – as it happened". Financial Times. Archived from the original on 28 March 2019. Retrieved 28 March 2019. MPs delay Brexit date by 441 to 105
+ "New Brexit deadline set for 31 October". 11 April 2019. Archived from the original on 11 April 2019. Retrieved 11 April 2019.
+ European Council (10 April 2019). "Special meeting of the European Council (Art. 50) (10 April 2019) – Conclusions" (PDF). Archived (PDF) from the original on 11 April 2019. Retrieved 11 April 2019.
+ "European Council Art. 50 conclusions, 21 March 2019". European Council. 21 March 2019. Archived from the original on 23 October 2019. Retrieved 20 December 2019.
+ Walker, Peter (11 October 2019). "Entering 'the tunnel': what does it mean for the Brexit talks?". The Guardian. Archived from the original on 17 October 2019. Retrieved 17 October 2019.
+ "European Commission Recommendation" (PDF). European Commission. 17 October 2019. Archived (PDF) from the original on 17 October 2019. Retrieved 17 October 2019.
+ "Revised Political Declaration" (PDF). European Commission. 17 October 2019. Archived (PDF) from the original on 17 October 2019. Retrieved 17 October 2019.
+ Kirby, Jen (17 October 2019). "The UK and EU have a new Brexit agreement. But it's not a done deal yet". Vox. Archived from the original on 2 January 2020. Retrieved 1 February 2020.
+ Herszenhorn, David M.; Casalicchio, Emilio; Courea, Eleni (17 October 2019). "EU and UK say they have Brexit deal". Politico. Archived from the original on 17 October 2019. Retrieved 17 October 2019.
+ "European Union (Withdrawal) (No. 2) Act 2019". Act of 9 September 2019. Archived from the original on 29 September 2019. Retrieved 14 October 2019.
+ Kraemer, Daniel (27 September 2019). "Can a no-deal Brexit still happen?". Archived from the original on 1 October 2019. Retrieved 1 October 2019.
+ "Brexit: European leaders agree extension to 31 January". 28 October 2019. Archived from the original on 28 October 2019. Retrieved 28 October 2019.
+ The European Union (Withdrawal) Act 2018 (Exit Day) (Amendment) (No. 3) Regulations 2019 SI 2019 No. 1423, 30 October 2019.[1] Archived 10 November 2019 at the Wayback Machine(more detailed version Archived 15 November 2019 at the Wayback Machine)
+ "UK set for 12 December general election". 29 October 2019. Retrieved 22 December 2019.
+ Stewart, Heather (12 December 2019). "Exit poll predicts 86-seat majority for Boris Johnson and Conservatives". The Guardian.
+ "Where do the parties stand on Brexit?". BBC News. 5 December 2019. Retrieved 13 September 2020.
+ Stewart, Heather (20 December 2019). "Brexit: parliament passes withdrawal agreement bill by 124 majority". The Guardian. ISSN 0261-3077. Archived from the original on 20 December 2019. Retrieved 20 December 2019.
+ "Brexit bill receives Royal Assent". BBC News. 23 January 2020. Archived from the original on 1 February 2020. Retrieved 2 February 2020.
+ Wishart, Ian (23 January 2020). "Brexit Deal Passes Penultimate EU Hurdle With Committee Approval". Bloomberg. Archived from the original on 26 January 2020. Retrieved 27 January 2020.
+ "Brexit: Boris Johnson signs withdrawal agreement in Downing Street". BBC News. 24 January 2020. Archived from the original on 25 January 2020. Retrieved 27 January 2020.
+ Castle, Stephen (22 January 2020). "U.K. Takes a Major Step Toward Brexit". The New York Times. Archived from the original on 26 January 2020. Retrieved 27 January 2020.
+ McGuinness, Alan (29 January 2020). "European Parliament ratifies Boris Johnson's Brexit deal ahead of exit day". Sky News. Archived from the original on 29 January 2020. Retrieved 29 January 2020.
+ Payne, Adam (30 January 2020). "The European Parliament joined hands and sang Auld Lang Syne in an emotional Brexit farewell to the UK". Business Insider. Reuters. Archived from the original on 31 January 2020. Retrieved 1 February 2020.
+ Stevis-Gridneff, Matina (30 January 2020). "Press send for Brexit: E.U. seals U.K. withdrawal by email". The New York Times. Archived from the original on 31 January 2020. Retrieved 8 July 2020.
+ Edgington, Tom. "Brexit: What is the transition period?". BBC News. Archived from the original on 1 February 2020.
+ Boffey, Daniel; O'Caroll, Lisa (1 October 2020). "Brexit: EU launches legal action against UK for breaching withdrawal agreement". The Guardian. Retrieved 1 November 2020.
+ "Brexit: Britain says it may break international law in 'limited way'". Irish Times. 8 September 2020. Retrieved 1 November 2020.
+ "Northern Ireland Protocol: UK Legal Obligations". TheyWorkForYou. 8 September 2020. Retrieved 1 November 2020.
+ "Senior government lawyer quits over Brexit plans". BBC News. 8 September 2020. Retrieved 1 November 2020.
+ "Lord Keen: Senior law officer quits over Brexit bill row". BBC News. 16 September 2020. Retrieved 1 November 2020.
+ Boffey, Daniel; Borger, Julian (21 October 2020). "Brexit talks to resume after Michel Barnier speech breaks impasse". The Guardian. Retrieved 2 May 2021.
+ Boffey, Daniel; O'Caroll, Lisa (24 December 2020). "UK and EU agree Brexit trade deal". The Guardian. Retrieved 25 December 2020.
+ "Brexit: MPs overwhelmingly back post-Brexit deal with EU". BBC News. 30 December 2020. Retrieved 30 December 2020.
+ "Brexit: New era for UK as it completes separation from European Union". BBC News. 31 December 2020. Retrieved 1 January 2021.
+ "EU postpones setting date for ratifying Brexit trade deal". The Guardian. 4 March 2021. Retrieved 15 March 2021.
+ Blenkinsop, Philip (22 April 2021). "EU parliament agrees to April 27 vote on EU-UK trade deal". Reuters. Retrieved 28 April 2021.
+ "Brexit: European Parliament backs UK trade deal". BBC News. 28 April 2021. Retrieved 28 April 2021.
+ Rankin, Jennifer; O'Caroll, Lisa (12 June 2020). "Brexit: full controls on goods entering UK will not apply until July 2021". The Guardian. Retrieved 1 May 2021.
+ Partridge, Joanna (11 March 2021). "UK forced to delay checks on imports from EU by six months". The Guardian. Retrieved 22 June 2021.
+ Holton, Kate (14 September 2021). "Britain delays post-Brexit import trade controls again". Reuters. Retrieved 25 September 2021.
+ "European Union (Withdrawal) Bill 2017–19 – UK Parliament". Parliament of the United Kingdom. Archived from the original on 25 July 2019. Retrieved 23 July 2017.
+ "EU repeal bill wins first Commons vote". BBC News. 12 September 2017. Archived from the original on 27 July 2019. Retrieved 1 November 2017.
+ "Conclusions adopted by the European Council (Art. 50), 29 June 2018" (PDF). europa.eu. Archived (PDF) from the original on 14 February 2019. Retrieved 2 July 2018.
+ "European Union (Withdrawal) Act 2018". legislation.gov.uk. 2018. sec. 20(1). Archived from the original on 6 February 2019. Retrieved 13 February 2019. "exit day" means 29 March 2019 at 11.00 p.m.(and see subsections (2) to (5)); Subsections (2) to (5) provide the option of amending the date by a Ministerial Regulation "if the day or time on or at which the Treaties are to cease to apply to the United Kingdom in accordance with Article 50(3) of the Treaty on European Union is different from that specified in the definition of 'exit day' in subsection (1)." Article 50(3) of the Treaty on European Union Archived 31 December 2019 at the Wayback Machine states: The Treaties shall cease to apply to the State in question from the date of entry into force of the withdrawal agreement or, failing that, two years after the notification referred to in paragraph 2, unless the European Council, in agreement with the Member State concerned, unanimously decides to extend this period.
+ Cowie, Graeme (19 March 2019). "What is "exit day"? Dispelling misconceptions about the extension of Article 50". House of Commons Library. Archived from the original on 21 March 2019. Retrieved 21 March 2019.
+ The UK legislation states the day and hour as "29 March 2019 at 11.00 p.m." in the knowledge that the UK Interpretation Act 1978 s.4 (a) prescribes that "An Act or provision of an Act comes into force where provision is made for it to come into force on a particular day, at the beginning of that day".
+ "Key dates in Brexit process". Reuters. 2 February 2018. Archived from the original on 24 September 2018. Retrieved 13 February 2019.
+ Walker, Nigel (6 February 2019). "House of Commons Briefing Paper 7960, summary". House of Commons. Archived from the original on 16 February 2019. Retrieved 16 February 2019.
+ "Directives for the negotiation of an agreement with the United Kingdom of Great Britain and Northern Ireland setting out the arrangements for its withdrawal from the European Union (Section II.8)". Europa (web portal). Archived from the original on 18 November 2018. Retrieved 1 November 2017.
+ Hannah White and Jill Rutter, "Legislating Brexit: The Great Repeal Bill and the wider legislative challenge", Institute for Government, 20 March 2017, p. 9 [2] Archived 21 March 2017 at the Wayback Machine
+ "Brexit could place 'huge burden' on Parliament". BBC. 20 March 2017. Archived from the original on 27 July 2019. Retrieved 29 July 2018.
+ "Nuclear Safeguards Act 2018" (PDF). www.legislation.gov.uk. Archived (PDF) from the original on 14 December 2019. Retrieved 3 September 2019.
+ Cecil, Nicholas (10 October 2019). "Brexit news latest: Poll of polls says Britain is now against leaving EU as most want to stay". Evening Standard. London Evening Standard. Archived from the original on 16 October 2019. Retrieved 19 October 2019.
+ Kellner, Peter (10 October 2019). "Everyone says they know what the public think about Brexit – here's the polling data that tells you who's right". The Independent. Archived from the original on 16 October 2019. Retrieved 16 October 2019.
+ Curtice, John (8 February 2019). "Has There Been a Shift in Support for Brexit?". What UK Thinks. Archived from the original on 16 May 2019. Retrieved 16 May 2019. Until the 2017 general election typically more people said that the decision to leave the EU was right than stated it was wrong. Since then the oppose has been the case ... The reason why the balance of opinion had shifted in favour of Remain, even though very few Leave voters had changed their minds, was because those who had not voted before (in some cases because they had been too young to do so) were now decisively in favour of Remain.
+ Curtice, John (17 October 2019). "Have UK voters changed their minds on Brexit?". BBC News. Archived from the original on 23 October 2019. Retrieved 23 October 2019. On average, during the last month, polls that ask people how they would vote in another referendum suggest that 88% of those who backed Remain would do so again. Among those who voted Leave, 86% have not changed their minds.
+ "Article 50 petition to cancel Brexit passes 6m signatures". The Guardian. Archived from the original on 3 April 2019. Retrieved 5 June 2019.
+ "Article 50: MPs debate six-million-signature petition". BBC News. Archived from the original on 10 April 2019. Retrieved 5 June 2019.
+ "Scotland Says New Vote on Independence Is 'Highly Likely'". The New York Times. 25 June 2016. Archived from the original on 16 February 2017. Retrieved 17 April 2017.
+ Simons, Ned (24 January 2016). "Nicola Sturgeon Denies She Has "Machiavellian" Wish For Brexit". The Huffington Post UK. Archived from the original on 3 February 2016. Retrieved 3 February 2016.
+ Stewart, Heather (16 March 2017). "Theresa May rejects Nicola Sturgeon's referendum demand". The Guardian. Archived from the original on 31 May 2017. Retrieved 15 May 2017.
+ "Scotland, Wales and London want special Brexit deal if Northern Ireland gets one". Reuters. 4 December 2017. Archived from the original on 8 October 2019. Retrieved 8 October 2019.
+ "Brexit: What is the Northern Ireland Protocol and why are there checks?". BBC News. 15 March 2021. Retrieved 21 April 2021.
+ "Whitehall lawyers drawing up plans to challenge Continuity Bill in courts". Herald Scotland. 2018. Archived from the original on 3 April 2018. Retrieved 3 April 2018.
+ "Forging a new UK-wide agricultural framework post-Brexit". LSE. 2018. Archived from the original on 3 April 2018. Retrieved 3 April 2018.
+ "European Union (Withdrawal) Act 2018". www.legislation.gov.uk. Archived from the original on 6 August 2019. Retrieved 6 August 2019.
+ "EU Continuity Bill was within competence of Scottish Parliament when it was passed". Holyrood Magazine. 13 December 2018. Archived from the original on 6 August 2019. Retrieved 6 August 2019.
+ "European Commission – PRESS RELEASES – Press release – Brexit: European Commission implements "no-deal" Contingency Action Plan in specific sectors". europa.eu. Archived from the original on 5 September 2019. Retrieved 5 September 2019.
+ "Theresa May signals Whitehall rejig with two new Cabinet posts". civilserviceworld.com. CSW. Archived from the original on 14 July 2016. Retrieved 14 July 2016.
+ Trading places / Negotiating post-Brexit deals. Economist, 4–10 February 2017, p. 25
+ "Temporary tariff regime for no deal Brexit published". GOV.UK. Archived from the original on 29 March 2019. Retrieved 14 March 2019.
+ O'Carroll, Lisa; Boffey, Daniel (13 March 2019). "UK will cut most tariffs to zero in event of no-deal Brexit". The Guardian. Archived from the original on 14 March 2019. Retrieved 14 March 2019.
+ Glaze, Ben; Bloom, Dan; Owen, Cathy (13 March 2019). "Car prices to rise by £1,500 as no-deal tariffs are revealed". walesonline. Archived from the original on 29 March 2019. Retrieved 14 March 2019.
+ "No-deal tariff regime would be 'sledgehammer' to UK economy, CBI warns". Aol.co.uk. Archived from the original on 29 March 2019. Retrieved 14 March 2019.
+ "This is why farmers are suddenly very worried about a no-deal Brexit". The Independent. 13 March 2019. Archived from the original on 29 March 2019. Retrieved 14 March 2019.
+ "No-deal plans a bid 'to break EU unity'". BBC News. 13 March 2019. Archived from the original on 31 March 2019. Retrieved 14 March 2019.
+ Sandford, Alisdair (13 March 2019). "UK zero-tariff plan for no-deal Brexit would not spare some EU imports" (PDF). Euronews.com. Archived from the original on 29 March 2019. Retrieved 14 March 2019.
+ McCormack, Jayne (14 March 2019). "Does NI tariffs plan violate WTO law?". BBC News. Archived from the original on 3 April 2019. Retrieved 14 March 2019.
+ "EU to apply normal tariffs on trade with UK in case of no-deal Brexit". Reuters. 13 March 2019. Archived from the original on 29 March 2019. Retrieved 14 March 2019.
+ "EU says UK no-deal Brexit tariff plan is 'illegal'". The Independent. 15 March 2019. Archived from the original on 29 March 2019. Retrieved 15 March 2019.
+ "Brexit: EU must prepare for no-deal, Merkel warns". Independent. Retrieved 2 June 2020.
+ Miller, Vaughne; Mars, Sylvia de (1 November 2019). "Brexit questions in national and EU courts". Archived from the original on 19 January 2020. Retrieved 4 January 2020.
+ "Article 50 Challenge". CrowdJustice. Archived from the original on 22 May 2019. Retrieved 20 November 2018.
+ "Robert Craig: New Article 50 Case Resoundingly Rejected by the Divisional Court". UK Constitutional Law Association. 26 June 2018. Archived from the original on 8 July 2019. Retrieved 20 November 2018.
+ 'Grounds for Judicial Review' in Wilson v Prime Minister, 13 August 2018.[3] Archived 25 August 2018 at the Wayback Machine
+ "UKEU Challenge Update" (PDF). UKEU Challenge. Archived (PDF) from the original on 1 April 2019. Retrieved 20 November 2018.
+ "Wilson & others –v- The Prime Minister (Respondent 1) and The Electoral Commission (Respondent 2)". www.judiciary.uk. Archived from the original on 30 March 2019. Retrieved 4 January 2020.
+ Maugham, Jolyon (21 September 2018). "Today's ruling shows the triggering of article 50 can be reversed". The Guardian. Archived from the original on 1 April 2019. Retrieved 20 November 2018.
+ UK Supreme Court. "Reasons for the determination in the matter of Secretary of State for Exiting the European Union (Appellant) v Wightman and others (Respondents)" (PDF). UK Supreme Court. Archived (PDF) from the original on 20 November 2018. Retrieved 20 November 2018.
+ "The United Kingdom is free to revoke unilaterally the notification of its intention to withdraw from the EU" (PDF). Court of Justice of the European Union. 10 December 2018. Archived (PDF) from the original on 12 June 2019. Retrieved 18 January 2019.
+ "What is a no-deal Brexit? Here are the consequences of the UK leaving the EU without a deal". inews.co.uk. 4 September 2019. Archived from the original on 10 June 2019. Retrieved 20 May 2019.
+ McClean, Paul (30 May 2017). "After Brexit: the UK will need to renegotiate at least 759 treaties". Financial Times. Archived from the original on 31 May 2017. Retrieved 31 May 2017. Through analysis of the EU treaty database, the FT found 759 separate EU bilateral agreements with potential relevance to Britain, covering trade in nuclear goods, customs, fisheries, trade, transport and regulatory co-operation in areas such as antitrust or financial services. This includes multilateral agreements based on consensus, where Britain must re-approach 132 separate parties. Around 110 separate opt-in accords at the UN and World Trade Organization are excluded from the estimates, as are narrow agreements on the environment, health, research and science. Some additional UK bilateral deals, outside the EU framework, may also need to be revised because they make reference to EU law. Some of the 759 are so essential that it would be unthinkable to operate without them. Air services agreements allow British aeroplanes to land in America, Canada or Israel; nuclear accords permit the trade in spare parts and fuel for Britain's power stations. Both these sectors are excluded from trade negotiations and must be addressed separately.
+ "Brexit: Everyone Loses, but Britain Loses the Most". PIIE. 1 March 2019. Archived from the original on 27 March 2019. Retrieved 17 March 2019.
+ "Question C: Leaving the European Union without a trade agreement would have a large negative impact on the UK economy". www.igmchicago.org. Archived from the original on 23 July 2019. Retrieved 21 December 2019.
+ "How will Brexit affect future growth of the UK and EU economies?". Chicago Booth Review. Retrieved 18 February 2021.
+ Crowley, Meredith; Exton, Oliver; Han, Lu (21 January 2019). "The impact of Brexit uncertainty on UK exports". VoxEU.org. Archived from the original on 8 July 2019. Retrieved 21 January 2019.
+ "DP13446 Renegotiation of Trade Agreements and Firm Exporting Decisions: Evidence from the Impact of Brexit on UK Exports". cepr.org. Archived from the original on 29 March 2019. Retrieved 21 January 2019.
+ Graziano, Alejandro; Handley, Kyle; Limão, Nuno (2018). "Brexit Uncertainty and Trade Disintegration". doi:10.3386/w25334. S2CID 85512380. Archived from the original on 21 April 2019. Retrieved 21 January 2019.
+ Soegaard, Christian. "Brexit has already hurt EU and non-EU exports by up to 13% – new research". The Conversation. Archived from the original on 5 November 2018. Retrieved 5 November 2018.
+ Douch, Mustapha; Edwards, T. Huw; Soegaard, Christian (2018). "The Trade Effects of the Brexit Announcement Shock". Archived from the original on 6 November 2018. Retrieved 5 November 2018.
+ Breinlich, Holger; Leromain, Elsa; Novy, Dennis; Sampson, Thomas (2 March 2020). "The Brexit vote and inflation – updated evidence". VoxEU.org. Retrieved 2 March 2020.
+ Breinlich, Holger; Leromain, Elsa; Novy, Dennis; Sampson, Thomas (12 February 2019). "Voting with their money: Brexit and outward investment by UK firms". VoxEU.org. Archived from the original on 12 February 2019. Retrieved 13 February 2019.
+ "Brexit referendum spurs British companies into investing in EU". Reuters. 11 February 2019. Archived from the original on 13 February 2019. Retrieved 13 February 2019.
+ "The Government's Own Brexit Analysis Says The UK Will Be Worse Off in Every Scenario Outside The EU". BuzzFeed. Archived from the original on 29 January 2018. Retrieved 30 January 2018.
+ Parker, George (30 January 2018). "Secret data show Britain worse off under all Brexit scenarios". Financial Times. Archived from the original on 4 September 2019. Retrieved 30 January 2018.
+ Eichengreen, Barry (7 January 2019). "The international financial implications of Brexit". International Economics and Economic Policy. 16: 37–50. doi:10.1007/s10368-018-0422-x. ISSN 1612-4812. S2CID 159090073.
+ Armour, John (1 March 2017). "Brexit and financial services". Oxford Review of Economic Policy. 33 (suppl_1): S54–S69. doi:10.1093/oxrep/grx014. ISSN 0266-903X.
+ Andrew Roberts (13 September 2016). "CANZUK: after Brexit, Canada, Australia, New Zealand and Britain can unite as a pillar of Western civilisation". The Daily Telegraph. Archived from the original on 14 January 2019. Retrieved 3 September 2018.
+ James C. Bennett (24 June 2016). "Brexit boosts 'CANZUK' replacement for European Union: Column". USA Today. Archived from the original on 25 July 2018. Retrieved 3 September 2018.
+ Krugman, Paul (10 July 2018). "Opinion | Brexit Meets Gravity". The New York Times. ISSN 0362-4331. Archived from the original on 15 January 2019. Retrieved 14 January 2019.
+ "Long read: Can Brexit defy gravity? It is still much cheaper to trade with neighbouring countries". LSE BREXIT. 21 August 2018. Archived from the original on 15 January 2019. Retrieved 14 January 2019.
+ Sampson, Thomas; Dhingra, Swati; Ottaviano, Gianmarco; Reenen, John Van (2 June 2016). "How 'Economists for Brexit' manage to defy the laws of gravity". VoxEU.org. Archived from the original on 15 January 2019. Retrieved 14 January 2019.
+ Carter, Andrew; Swinney, Paul (2019). "Brexit and the Future of the UK's Unbalanced Economic Geography". The Political Quarterly. 90: 72–83. doi:10.1111/1467-923X.12649. ISSN 1467-923X. What all of these studies agree on is that whichever Brexit deal is struck, even the most advantageous will have a negative impact on future economic growth for all places across the UK in the short to medium term. And they also agree that over the longer term its places that are already struggling that are likely to struggle the most, further exacerbating the country's unbalanced economic geography.
+ "FactCheck: What are the options for the Irish border after Brexit?". Channel4.com. 29 November 2017. Archived from the original on 14 September 2018. Retrieved 25 October 2018.
+ Lyons, Niamh (31 January 2017). "Brexit will not mean hard border, leaders vow". The Times, Ireland edition. Archived from the original on 31 January 2017. Retrieved 29 April 2017.
+ "Britain does not want return to Northern Ireland border controls, says May". The Irish Times. 26 July 2016. Archived from the original on 12 October 2016. Retrieved 12 October 2016.
+ Brexit: the unexpected threat to peace in Northern Ireland Archived 14 June 2018 at the Wayback Machine Nic Robertson, CNN, 6 April 2018
+ George Mitchell: UK and Ireland need to realise what's at stake in Brexit talks. Archived 29 March 2019 at the Wayback Machine Belfast Telegraph, 8 April 2018
+ Brexit threatens Good Friday agreement, Irish PM warns. Archived 31 July 2018 at the Wayback Machine David Smith, The Guardian, 14 March 2018
+ "Brexit: What are the backstop options?". BBC News. 13 September 2019. Archived from the original on 25 July 2018. Retrieved 24 July 2018.
+ "EU-Austritt des UK: Diese Folgen hat der Brexit für Deutschland und die EU" [UK Exit from EU: Brexit has these consequences for Germany and the EU]. Merkur.de (in German). 22 August 2016. Archived from the original on 9 December 2016. Retrieved 30 November 2016. Die Briten haben sich für einen Abschied entschieden, Europa wird nun anders aussehen. Der Kontinent verliert seine (neben Frankreich) stärkste Militärmacht samt Atomwaffenarsenal, seine zweitgrößte Volkswirtschaft, das Land mit der drittgrößten Bevölkerung, die Finanzhauptstadt der Welt und einen von zwei Plätzen im UN-Sicherheitsrat. [The British have decided to leave. Europe will now look different. The continent will be losing its strongest military power (alongside France), ... its second largest economy, the country with the third largest population, the financial capital of the world, and one of two seats on the UN Security Council.]
+ Hendrik Kafsack (8 August 2016). "EU-Haushalt: Deutschland überweist das meiste Geld an Brüssel". Frankfurter Allgemeine Zeitung (in German). Archived from the original on 9 October 2016. Retrieved 9 October 2016.
+ "Brexit wird teuer für Deutschland". Frankfurter Allgemeine Zeitung (in German). Reuters/Deutsche Presse-Agentur. 10 September 2016. Archived from the original on 9 October 2016. Retrieved 9 October 2016.
+ Huhe, Narisong; Naurin, Daniel; Thomson, Robert (2020). "Don't cry for me Britannia: The resilience of the European Union to Brexit" (PDF). European Union Politics. 21: 1465116519882096. doi:10.1177/1465116519882096. hdl:10852/76151. ISSN 1465-1165. S2CID 211381583.
+ Gruyter, Caroline de. "There Is Life for the EU After Brexit". Carnegie Europe. Archived from the original on 5 December 2018.
+ "EMA now operating from Amsterdam" (Press release). European Medicines Agency. 11 March 2019. Archived from the original on 16 October 2019. Retrieved 3 February 2020.
+ "EMA gets keys to new HQ". The Pharma Letter. 18 November 2019. Archived from the original on 3 February 2020. Retrieved 3 February 2020.
+ "European bank regulator arrives in Paris in boost to Macron's financial vision for city". The Local. 5 June 2019. Archived from the original on 3 February 2020. Retrieved 3 February 2020.
+ Farm payments in a 'no deal' Brexit Archived 30 September 2019 at the Wayback Machine. House of Commons Library. 15 August 2019.
+ Common Agricultural Policy Archived 6 September 2019 at the Wayback Machine. Institute for Government.
+ Brexit: UK agriculture policy Archived 30 September 2019 at the Wayback Machine. House of Commons Library. 11 September 2018.
+ Briefing Paper: Fisheries and Brexit Archived 9 August 2019 at the Wayback Machine. House of Commons Library. 5 September 2019.
+ "Reality Check: How would Brexit affect the UK's fishing waters?" Archived 1 October 2019 at the Wayback Machine. BBC News. 31 May 2016.
+ Common Fisheries Policy Archived 18 May 2019 at the Wayback Machine. Institute for Government.
+ "Main world producers (2007)" (PDF). Archived (PDF) from the original on 12 August 2016. Retrieved 23 July 2018.
+ Daniel Boffey (15 February 2017). "UK fishermen may not win waters back after Brexit, EU memo reveals". The Guardian. London. Archived from the original on 2 July 2017. Retrieved 3 July 2017. Source: House of Lords, NAFC Marine Centre, University of the Highlands and Islands.
+ "UK to withdraw from international fishing arrangement" Archived 10 September 2019 at the Wayback Machine. BBC News. 2 July 2017.
+ "Brexit: Spain calls for joint control of Gibraltar". BBC News. Archived from the original on 26 June 2016. Retrieved 26 June 2016.
+ "UK, Spain reach Brexit deal over Gibraltar: Spanish PM", Digital Journal, 18 October 2018, archived from the original on 28 March 2019, retrieved 12 September 2019
+ "Spanish PM lifts effective veto on Brexit deal after Gibraltar 'guarantee'" Archived 25 November 2018 at the Wayback Machine. The Irish Times. 24 November 2018.
+ "It is likely that the UK would wish to remain an associated member of the European Research Area, like Norway and Iceland, in order to continue participating in the EU framework programmes."UNESCO Science Report: towards 2030 (PDF). Paris: UNESCO Publishing. 2015. p. 269. ISBN 978-92-3-100129-1. Archived (PDF) from the original on 30 June 2017. Retrieved 20 February 2017.
+ Elgot, Jessica; Elliott, Larry; Davis, Nicola (13 August 2016). "Treasury to guarantee post-Brexit funding for EU-backed projects". The Guardian. Archived from the original on 14 April 2017. Retrieved 14 April 2017.
+ McKee, Martin; Galsworthy, Mike; Stuckler, David; Jarman, Holly; Greer, Scott; Hervey, Tamara; Fahy, Nick (25 February 2019). "How will Brexit affect health services in the UK? An updated evaluation" (PDF). The Lancet. 393 (10174): 949–958. doi:10.1016/S0140-6736(19)30425-8. ISSN 0140-6736. PMID 30819519. S2CID 72334219.
+ Continuity of supplies Archived 12 December 2019 at the Wayback Machine. NHS England.
+ Siddique, Haroon (12 June 2017). "96% drop in EU nurses registering to work in Britain since Brexit vote". The Guardian. Archived from the original on 2 April 2019. Retrieved 1 November 2017.
+ Explanatory notes on the European Union (Withdrawal) Act 2018 Archived 30 September 2019 at the Wayback Machine. The Stationery Office. pp.4, 8
+ Managing migration after Brexit Archived 29 September 2019 at the Wayback Machine. Institute for Government. 8 March 2019.
+ "The post-Brexit immigration plans at a glance" Archived 26 July 2019 at the Wayback Machine. The Guardian. 19 December 2018.
+ Briefing Paper: EU Settlement Scheme Archived 29 September 2019 at the Wayback Machine. House of Commons Library. 19 September 2019.
+ Future skills-based immigration system: executive summary Archived 29 September 2019 at the Wayback Machine. Home Office. 19 December 2018.
+ Portes, Jonathan (1 November 2016). "Immigration after Brexit". National Institute Economic Review. 238 (1): R13–R21. doi:10.1177/002795011623800111. ISSN 0027-9501. S2CID 157228784.
+ "Brexit: What effect could leaving the European Union have on football transfers?". BBC Sport. 31 October 2018. Archived from the original on 12 January 2019. Retrieved 11 January 2019.
+ "How Brexit will affect Premier League football". Goal.com. 22 March 2019. Archived from the original on 12 January 2019. Retrieved 11 January 2019.
+ Aviation and the European Common Aviation Area (ECAA) Archived 30 September 2019 at the Wayback Machine. Institute for Government. 10 September 2017.
+ "Flights to and from the UK if there's no Brexit deal". Government of the United Kingdom. 24 September 2018. Archived from the original on 10 February 2019. Retrieved 9 February 2019.
+ "Getting to Europe Post Brexit – The Impact on Ferry Companies". Atc-logistics.ie. 23 April 2018. Archived from the original on 23 March 2019. Retrieved 22 September 2018.
+ "U.K. Starts Research on Brexit Customs System Due in Four Months". Bloomberg.com. 27 August 2020. Retrieved 29 August 2020.
+ "Why Brexit may be good for terrorists and the Kremlin and bad for European security". The Washington Post. 2018. Archived from the original on 15 January 2019.
+ Giles, Chris (1 July 2021). "Covid pandemic masks Brexit impact on UK economy". Financial Times. Retrieved 13 October 2021.
+ Giles, Chris (23 December 2021). "Brexit one year on: the impact on the UK economy". Financial Times. Retrieved 31 December 2021.
+ "The initial impact of Brexit on UK trade with the EU". Office for Budget Responsibility. 27 October 2021. Retrieved 15 January 2022.
+ "Brexit has been a 'factor' in fuel crisis, Grant Shapps admits". The Independent. 28 September 2021. Retrieved 6 October 2021.
+ "How serious is the shortage of lorry drivers?". BBC News. 14 July 2021. Archived from the original on 28 September 2021. Retrieved 1 October 2021.
+ Waterfield, Bruno (29 September 2021). "EU single market avoids supply problems". The Times. Archived from the original on 29 September 2021. Retrieved 30 September 2021.
+ "UK warned visa plan to fix truck driver shortage will not solve crunch". Reuters. 26 September 2021.
+ "'Brexit made clear Eastern Europeans are not welcome in UK'". Deutsche Welle. 5 October 2021.
+ Mia Jankowicz, "Britain's thriving art scene strangled by Brexit chaos" in Politics.co.uk, 20 March 2017: Online Link Archived 24 September 2018 at the Wayback Machine
+ Lech K. (2020) Claiming Their Voice: Foreign Memories on the Post-Brexit Stage. In: Meerzon Y., Dean D., McNeil D. (eds) Migration and Stereotypes in Performance and Culture. Contemporary Performance InterActions. Palgrave Macmillan, Cham. https://doi.org/10.1007/978-3-030-39915-3_12 Online Link
+Further reading
+Ansorg, N. & Haastrup, T.: "Brexit Beyond the UK's Borders: What It Means for Africa", GIGA Focus Afrika No. 03/2016
+Clarke, Harold D.; Goodwin, Matthew; Whiteley, Paul (2017). Brexit: Why Britain Voted to Leave the European Union. Cambridge: Cambridge University Press. ISBN 978-1316605042.
+Culkin, Nigel; Simmons, Richard (2018). Tales of Brexits Past and Present: Understanding the Choices, Threats and Opportunities In Our Separation from the EU. Bingley: Emerald Publishing. ISBN 978-1787694385.
+Erlanger, Steven, and Stephen Castle. "In ‘Brexit’ Vote, David Cameron Faces Problem of His Own Making" The New York Times June 21, 2016
+Evans, Geoffrey; Menon, Anand (2017). Brexit and British Politics. Cambridge: Polity Press. ISBN 978-1509523863.
+Freedland, Jonathan, "Fools Rush Out", The New York Review of Books, vol. LXVI, no. 14 (26 September 2019), pp. 30, 32, 34–35.
+Freedman, Lawrence D. "Britain Adrift: The United Kingdom's Search for a Post-Brexit Role." Foreign Affairs (May/June 2020) 39#3 pp. 118–130.
+Hayton, Richard. "British conservatism after the vote for Brexit: The ideological legacy of David Cameron." British Journal of Politics and International Relations 20.1 (2018): 223–238. online
+Hobolt, Sara B. (2016). "The Brexit vote: a divided nation, a divided continent" (PDF). Journal of European Public Policy. 23 (9): 1259–1277. doi:10.1080/13501763.2016.1225785. ISSN 1350-1763. S2CID 158006844.
+Oliver, Tim (2018). Understanding Brexit: A concise introduction. Bristol: Policy Press. ISBN 978-1447346395.
+O'Rourke, Kevin (2019). A Short History of Brexit: From Brentry to Backstop. London: Pelican. ISBN 978-0241398272.
+O'Toole, Fintan (2018). Heroic Failure: Brexit and the Politics of Pain. London: Apollo. ISBN 978-1789540987.
+Outhwaite, William (ed.) Brexit: Sociological Responses. (London: Anthem Press, 2017). ISBN 978-1783086443
+Peers, Steve (2016). The Brexit: The Legal Framework for Withdrawal from the EU or Renegotiation of EU Membership. Oxford: Hart Publishing. ISBN 978-1-84946-874-9. OCLC 917161408.
+Rogers, Ivan (2019). 9 Lessons in Brexit. London: Short Books. ISBN 978-1780723990.
+Shipman, Tim. All Out War: The Full Story of How Brexit Sank Britain’s Political Class (2016) excerpt
+Shipman, Tim. Fall Out: A Year of Political Mayhem (William Collins, 2018), on Brexit debates in 2017
+External links
+Brexit
+at Wikipedia's sister projects
+Definitions from Wiktionary
+Media from Commons
+News from Wikinews
+Texts from Wikisource
+Resources from Wikiversity
+Data from Wikidata
+Early Parliamentary General Election Bill 2019–20, Progress in Parliament Archived 31 October 2019 at the Wayback Machine
+British government's Brexit information
+British government's official negotiation documents
+European Parliament – Brexit impact studies
+Brexit news on Eur-Lex website
+Legal Effect of the Protocol on Ireland/Northern Ireland, Attorney General's advice to Prime Minister, 13 November 2018
+British government's Explainer (for the withdrawal agreement) 14 November 2018
+House of Lords report analysing the proposed Withdrawal Agreement, 5 December 2018
+EU's official negotiation documents
+British Parliament – Brexit News
+Reading list of post-EU Referendum publications by Parliament and the Devolved Assemblies – House of Commons Library
+Record of Brexit-related business in the devolved legislatures (Northern Ireland, Scotland and Wales) – House of Commons Library
+Gov.UK – Department for Exiting the European Union
+BBC: "Brexit: What are the options?" (10 October 2016)
+BBC: "Brexit vote: What could happen next?" (17 December 2018)
+The Brexit Papers, Bar Council, December 2016
+"Plan for Britain: The government's negotiating objectives for exiting the EU": PM's speech delivered and published on 17 January 2017 – transcript of speech as delivered at Lancaster House, London
+The United Kingdom's exit from and new partnership with the European Union, February 2017 ("White paper")
+Brexit at Curlie
+Quotes about Brexit on Euronews
+European Council Brexit Guidelines
+"The economic effects of the government's proposed Brexit deal"—National Institute of Economic and Social Research, November 2018
+How will Brexit affect the UK's manufacturing industry? UK Trade Policy Observatory, February 2018
+The real post-Brexit options Archived 19 October 2019 at the Wayback Machine Lecture by Ivan Rogers at the University of Glasgow, 23 May 2018
+"What are the options for the UK's trading relationship with the EU after Brexit?" Archived 22 October 2019 at the Wayback Machine UK in a Changing Europe, King's College London, December 2018
+"Brexit phrasebook: a guide to the talks' key terms"—The Guardian, 23 November 2018
+"Lord Ashcroft: How the United Kingdom voted on EU referendum day – and why" Conservative Home, 17 March 2019
+Explanatory Memorandum for the Withdrawal of the United Kingdom from the European Union (Consequential Provisions) Bill 2019 introduced by the Irish government in the legislature (Oireachtas)
+EU Council decision, 22 March 2019, extending the negotiating period
+Relating to court cases
+Judgment of the Supreme Court of the United Kingdom in R (Miller) v Secretary of State for Exiting the European Union
+Judgment of the European Court of Justice in the Wightman case: Right of unilateral revocation of the notification
+Wilson v Prime Minister (2018) EWHC 3520 (Admin) Archived 16 January 2019 at the Wayback Machine
+Ewan McGaughey "Could Brexit be Void?" "King's Law Journal", Volume 29, 2018, Issue 3
+UK withdrawal from the European Union: Legal and procedural issues European Parliamentary Research Service, March 2017
+Ronan McCrea. "The legal issues of revoking the notification to leave the EU – but then notifying to leave again". London School of Economics, 20 December 2018
+vte
+Brexit
+RenegotiationReferendum resultsBrexit negotiationsBrexit withdrawal agreementTrade negotiationTrade and Cooperation AgreementTimeline
+Referendum question	
+"Should the United Kingdom remain a member of the European Union or leave the European Union?"
+Referendum legislation	
+European Union Referendum Act 2015 GibraltarEuropean Union Referendum (Date of Referendum etc.) Regulations 2016The European Union Referendum (Conduct) Regulations 2016
+Background	
+Treaties	
+Rome1972 Accession TreatySingle European ActMaastrichtAmsterdamNiceEuropean ConstitutionLisbonUnited Kingdom opt-outs from EU legislation
+Legislation	
+European Communities Act 1972 Amendments: 198619931998200220082011European Economic Area Act 1993
+Proposed bills	
+European Union Bill 2004–05European Communities Act 1972 (Repeal) BillsEuropean Union (Referendum) Bill 2013–14
+Elections	
+2014 European Parliament election2015 general election
+By-elections	
+2014 Clacton2014 Heywood and Middleton2014 Rochester and Strood
+Other	
+UK accession1973 EC enlargementUK membership1975 EC membership referendumUK rebateBruges speechNo. No. No.Black WednesdayEEAMaastricht RebelsUK Opt-outsThe European Union: In or OutBloomberg speechRussian interference2015–16 renegotiationEuroscepticism in the UK
+Campaign	
+IssuesOpinion pollingEndorsementsProject FearUnlawful campaigning allegationsBrexit: The Movie
+Campaign
+organisations	
+Remain	
+Britain Stronger in Europe (official campaign)Labour In for Britain
+Leave	
+Vote Leave (official campaign)Leave.EUBeLeaveGrassroots OutLabour LeaveCampaign for an Independent BritainThe Freedom Association Better Off OutGet Britain OutBruges Group
+Aftermath of
+referendum	
+Political party
+leadership elections	
+Conservative 20162019Scottish, Feb 2020LabourUKIP
+Opposition to Brexit	
+Proposed second referendum People's VotePetition to revoke Article 50Led By DonkeysBollocks to Brexit
+Elections	
+2017 local2017 general2018 local2019 local2019 European Parliament Brexit Party2019 general
+By-elections	
+2016 Witney2016 Richmond Park2016 Sleaford and North Hykeham2017 Copeland2017 Stoke-on-Trent Central2019 Peterborough2019 Brecon and Radnorshire
+Other	
+International reactionsMarch to LeaveBrexit AllianceBlue Collar ConservativismBrexit PartyIndependent Alliance for Reform
+Brexit process	
+Miller I caseInvocation of Article 50Negotiations Brexit divorce bill201720182019Withdrawal agreement Parliamentary votesNo-deal Brexit Operation YellowhammerProrogation of Parliament Miller II / Cherry caseTrade negotiation between the UK and the EU Fish for financeEU–UK Trade and Cooperation Agreement (TCA)
+Impact of Brexit
+and
+potential effects	
+on Northern Ireland and
+the Republic of Ireland	
+Brexit and the Irish borderNorthern Ireland ProtocolIrish Sea border
+Other	
+on Gibraltaron the EUScience and technologyEconomic effectsPost-Brexit United Kingdom relations with the European Union
+Brexit legislation	
+White papers	
+Brexit planRepeal Bill planChequers planBrexit withdrawal agreement plan
+Enacted	
+Notification of Withdrawal Act 2017Withdrawal Act 2018 (Gibraltar)Nuclear Safeguards Act 2018Cooper–Letwin ActBenn ActWithdrawal Agreement Act 2020 (Gibraltar)Internal Market Act 2020Future Relationship Act 2020UK Withdrawal from the European Union (Continuity) (Scotland) Act 2020
+Proposed	
+Terms of Withdrawal from EU (Referendum) BillsUK Withdrawal from the European Union (Legal Continuity) (Scotland) Bill 2018European Union Withdrawal Agreement (Public Vote) Bill 2017–19
+Related	
+Brexit 50p coinChange BritainEuropean Research Group"Enemies of the People"Leave Means LeaveLed By DonkeysMore UnitedNorthern Future ForumThe New EuropeanOpen BritainProposed second Scottish independence referendumRue du BrexitTerminology (Glossary)Tufton StreetUnited IrelandVoting pencil conspiracy theory
+Media depictions	
+Remainiacs (2017)Postcards from the 48% (2018)Not Tonight (2018)Brexit: The Uncivil War (2019)@BorderIrish (2018–2020)
+ Category
+Authority control Edit this at Wikidata
+Categories: Brexit2010s neologismsEnglish words and phrasesEuroscepticism in the United KingdomPortmanteausUnited Kingdom and the European Union
+Navigation menu
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+ArticleTalk
+ReadEditView history
+Search
+Search Wikipedia
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikiquote
+Wikiversity
+Wiktionary
+
+Languages
+বাংলা
+हिन्दी
+ಕನ್ನಡ
+മലയാളം
+मराठी
+ਪੰਜਾਬੀ
+தமிழ்
+తెలుగు
+اردو
+92 more
+Edit links
+This page was last edited on 25 January 2022, at 16:07 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWiki
