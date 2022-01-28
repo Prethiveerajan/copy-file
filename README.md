@@ -13,13 +13,13 @@ opening the first and second file
 then writing in second file 
 
 ## PROGRAM:
-``
+```
 #devolped by : Prethiveerajan P
 #reg no:21500340
 with open('first.txt','r') as firstfile, open('second.txt','a') as secondfile:
     for line in firstfile:
              secondfile.write(line)
-``
+```
 
 ### OUTPUT OF PROGRAMM:
 ![OUTPUT](prg.png)
